@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2026-01-30",
+    "game": "Pong-ish",
+    "slug": "pongish",
+    "category": "input",
+    "lesson": "Keep controls minimal and responsive: Arrow/WASD + one action is enough for Atari-scale fun."
+  },
+  {
+    "date": "2026-01-30",
+    "game": "Pong-ish",
+    "slug": "pongish",
+    "category": "design",
+    "lesson": "Add tiny juice (screen shake, bleep) but keep the loop readable—clarity > effects."
+  },
+  {
+    "date": "2026-01-31",
+    "game": "Breakout-ish",
+    "slug": "breakoutish",
+    "category": "workflow",
+    "lesson": "Ship a playable loop first; add polish only after the loop feels good."
+  },
+  {
+    "date": "2026-01-31",
+    "game": "Breakout-ish",
+    "slug": "breakoutish",
+    "category": "design",
+    "lesson": "Retro readability matters: high contrast, chunky pixels, and clear feedback."
+  },
+  {
+    "date": "2026-02-08",
+    "game": "Asteroids-ish",
+    "slug": "asteroidsish",
+    "category": "input",
+    "lesson": "Rotation-based movement needs different mobile UX than paddle games — joystick axis mapping (X=rotate, Y=thrust) is workable but not as tight as keyboard."
+  },
+  {
+    "date": "2026-02-08",
+    "game": "Asteroids-ish",
+    "slug": "asteroidsish",
+    "category": "design",
+    "lesson": "Screen-wrap physics needs safe-zone spawning logic to avoid unfair deaths on wave transitions."
+  }
+]

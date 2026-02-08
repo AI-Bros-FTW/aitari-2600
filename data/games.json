@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "asteroidsish",
+    "title": "Asteroids-ish",
+    "date": "2026-02-08",
+    "version": "0.1.0",
+    "thumbnail": "/play/asteroidsish/thumbnail.png",
+    "playUrl": "/play/asteroidsish/index.html",
+    "atariInspiration": "Asteroids (1979)"
+  },
+  {
+    "slug": "breakoutish",
+    "title": "Breakout-ish",
+    "date": "2026-01-31",
+    "version": "0.1.0",
+    "thumbnail": "/play/breakoutish/thumbnail.png",
+    "playUrl": "/play/breakoutish/index.html",
+    "atariInspiration": "Breakout (1976)"
+  },
+  {
+    "slug": "pongish",
+    "title": "Pong-ish",
+    "date": "2026-01-30",
+    "version": "0.1.0",
+    "thumbnail": "/play/pongish/thumbnail.png",
+    "playUrl": "/play/pongish/index.html",
+    "atariInspiration": "Pong / Video Olympics vibe"
+  }
+]
