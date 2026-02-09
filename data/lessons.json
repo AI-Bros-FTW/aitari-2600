@@ -40,5 +40,26 @@
     "slug": "asteroidsish",
     "category": "design",
     "lesson": "Screen-wrap physics needs safe-zone spawning logic to avoid unfair deaths on wave transitions."
+  },
+  {
+    "date": "2026-02-09",
+    "game": "2048 2600",
+    "slug": "2048-2600",
+    "category": "input",
+    "lesson": "For discrete-direction games, swipe detection beats virtual buttons or joysticks — match the input method to the game's movement model."
+  },
+  {
+    "date": "2026-02-09",
+    "game": "2048 2600",
+    "slug": "2048-2600",
+    "category": "design",
+    "lesson": "Puzzle games need animation bookkeeping (slide sources, merge targets, new spawns) even though the logic is simple — the feel lives in the transitions."
+  },
+  {
+    "date": "2026-02-09",
+    "game": "2048 2600",
+    "slug": "2048-2600",
+    "category": "workflow",
+    "lesson": "Rendering HUD info on canvas instead of DOM keeps embed mode clean and avoids duplicate UI state management."
   }
 ]

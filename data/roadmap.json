@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08",
+  "updatedAt": "2026-02-09",
   "games": [
     {
       "slug": "pongish",
@@ -26,8 +26,8 @@
       "slug": "2048-2600",
       "title": "2048 2600",
       "atariInspiration": "Atari 2600 — 2048 2600",
-      "status": "planned",
-      "plannedDate": null
+      "status": "published",
+      "plannedDate": "2026-02-09"
     },
     {
       "slug": "3-d-tic-tac-toe",
