@@ -33,8 +33,9 @@
       "slug": "3-d-tic-tac-toe",
       "title": "3-D Tic-Tac-Toe",
       "atariInspiration": "Atari 2600 — 3-D Tic-Tac-Toe",
-      "status": "planned",
-      "plannedDate": null
+      "status": "published",
+      "plannedDate": "2026-02-10",
+      "updatedAt": "2026-02-10"
     },
     {
       "slug": "a-vcs-tec-challenge",

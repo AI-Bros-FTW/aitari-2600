@@ -1,5 +1,14 @@
 [
   {
+    "slug": "3-d-tic-tac-toe",
+    "title": "3-D Tic-Tac-Toe",
+    "date": "2026-02-10",
+    "version": "0.1.0",
+    "thumbnail": "/play/3-d-tic-tac-toe/thumbnail.png",
+    "playUrl": "/play/3-d-tic-tac-toe/index.html",
+    "atariInspiration": "Atari 2600 — 3-D Tic-Tac-Toe"
+  },
+  {
     "slug": "2048-2600",
     "title": "2048 2600",
     "date": "2026-02-09",

@@ -61,5 +61,26 @@
     "slug": "2048-2600",
     "category": "workflow",
     "lesson": "Rendering HUD info on canvas instead of DOM keeps embed mode clean and avoids duplicate UI state management."
+  },
+  {
+    "date": "2026-02-10",
+    "game": "3-D Tic-Tac-Toe",
+    "slug": "3-d-tic-tac-toe",
+    "category": "design",
+    "lesson": "When representing 3D grids in 2D, showing all layers simultaneously beats layer-switching UX — players need full board visibility for strategic games."
+  },
+  {
+    "date": "2026-02-10",
+    "game": "3-D Tic-Tac-Toe",
+    "slug": "3-d-tic-tac-toe",
+    "category": "ai",
+    "lesson": "For board game AI, check immediate wins/blocks before running minimax — it's both faster and ensures the AI never misses an obvious move at any search depth."
+  },
+  {
+    "date": "2026-02-10",
+    "game": "3-D Tic-Tac-Toe",
+    "slug": "3-d-tic-tac-toe",
+    "category": "input",
+    "lesson": "64 tap targets on mobile is viable if cells fill available space and ghost previews confirm selection — don't hide information behind navigation when spatial awareness matters."
   }
 ]
