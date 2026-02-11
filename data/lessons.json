@@ -82,5 +82,19 @@
     "slug": "3-d-tic-tac-toe",
     "category": "input",
     "lesson": "64 tap targets on mobile is viable if cells fill available space and ghost previews confirm selection — don't hide information behind navigation when spatial awareness matters."
+  },
+  {
+    "date": "2026-02-11",
+    "game": "A-VCS-tec Challenge",
+    "slug": "a-vcs-tec-challenge",
+    "category": "design",
+    "lesson": "Multi-level games benefit from distinct control schemes per level — jump/duck for side-scrolling vs lane-switching for vertical climbing keeps the same inputs feeling fresh."
+  },
+  {
+    "date": "2026-02-11",
+    "game": "A-VCS-tec Challenge",
+    "slug": "a-vcs-tec-challenge",
+    "category": "design",
+    "lesson": "Progress bars in endless-feeling runner levels transform anxiety into motivation — players push harder when they can see the finish line approaching."
   }
 ]

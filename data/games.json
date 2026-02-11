@@ -1,5 +1,14 @@
 [
   {
+    "slug": "a-vcs-tec-challenge",
+    "title": "A-VCS-tec Challenge",
+    "date": "2026-02-11",
+    "version": "0.1.0",
+    "thumbnail": "/play/a-vcs-tec-challenge/thumbnail.png",
+    "playUrl": "/play/a-vcs-tec-challenge/index.html",
+    "atariInspiration": "Atari 2600 — A-VCS-tec Challenge"
+  },
+  {
     "slug": "3-d-tic-tac-toe",
     "title": "3-D Tic-Tac-Toe",
     "date": "2026-02-10",

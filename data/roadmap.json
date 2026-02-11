@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-09",
+  "updatedAt": "2026-02-11",
   "games": [
     {
       "slug": "pongish",
@@ -41,8 +41,9 @@
       "slug": "a-vcs-tec-challenge",
       "title": "A-VCS-tec Challenge",
       "atariInspiration": "Atari 2600 — A-VCS-tec Challenge",
-      "status": "planned",
-      "plannedDate": null
+      "status": "published",
+      "plannedDate": "2026-02-11",
+      "updatedAt": "2026-02-11"
     },
     {
       "slug": "aardvark",
