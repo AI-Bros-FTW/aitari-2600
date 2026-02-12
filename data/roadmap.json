@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11",
+  "updatedAt": "2026-02-12",
   "games": [
     {
       "slug": "pongish",
@@ -49,8 +49,9 @@
       "slug": "aardvark",
       "title": "Aardvark",
       "atariInspiration": "Atari 2600 — Aardvark",
-      "status": "planned",
-      "plannedDate": null
+      "status": "published",
+      "plannedDate": "2026-02-12",
+      "updatedAt": "2026-02-12"
     },
     {
       "slug": "acid-drop",

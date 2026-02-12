@@ -1,5 +1,14 @@
 [
   {
+    "slug": "aardvark",
+    "title": "Aardvark",
+    "date": "2026-02-12",
+    "version": "0.1.0",
+    "thumbnail": "/play/aardvark/thumbnail.png",
+    "playUrl": "/play/aardvark/index.html",
+    "atariInspiration": "Atari 2600 — Aardvark"
+  },
+  {
     "slug": "a-vcs-tec-challenge",
     "title": "A-VCS-tec Challenge",
     "date": "2026-02-11",
