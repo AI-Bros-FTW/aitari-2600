@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14",
+  "updatedAt": "2026-02-15",
   "games": [
     {
       "slug": "pongish",
@@ -65,8 +65,9 @@
       "slug": "actionauts",
       "title": "Actionauts",
       "atariInspiration": "Atari 2600 — Actionauts",
-      "status": "planned",
-      "plannedDate": null
+      "status": "published",
+      "plannedDate": "2026-02-15",
+      "updatedAt": "2026-02-15"
     },
     {
       "slug": "adventure",

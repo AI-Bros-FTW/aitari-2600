@@ -1,5 +1,14 @@
 [
   {
+    "slug": "actionauts",
+    "title": "Actionauts",
+    "date": "2026-02-15",
+    "version": "0.1.0",
+    "thumbnail": "/play/actionauts/thumbnail.png",
+    "playUrl": "/play/actionauts/index.html",
+    "atariInspiration": "Atari 2600 — Actionauts"
+  },
+  {
     "slug": "acid-drop",
     "title": "Acid Drop",
     "date": "2026-02-14",
