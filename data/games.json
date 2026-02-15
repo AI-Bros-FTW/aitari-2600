@@ -1,5 +1,14 @@
 [
   {
+    "slug": "acid-drop",
+    "title": "Acid Drop",
+    "date": "2026-02-14",
+    "version": "0.1.0",
+    "thumbnail": "/play/acid-drop/thumbnail.png",
+    "playUrl": "/play/acid-drop/index.html",
+    "atariInspiration": "Atari 2600 — Acid Drop"
+  },
+  {
     "slug": "aardvark",
     "title": "Aardvark",
     "date": "2026-02-12",

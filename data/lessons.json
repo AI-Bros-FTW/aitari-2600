@@ -110,5 +110,19 @@
     "slug": "aardvark",
     "category": "mechanics",
     "lesson": "Auto-attacking tongue that extends through tunnel cells creates a natural risk/reward loop \u2014 longer reach means catching more ants but also more exposure to fire ants."
+  },
+  {
+    "date": "2026-02-14",
+    "game": "Acid Drop",
+    "slug": "acid-drop",
+    "category": "design",
+    "lesson": "Horizontal-only movement games map perfectly to two-button mobile controls — when the game fits, simpler inputs beat joysticks every time."
+  },
+  {
+    "date": "2026-02-14",
+    "game": "Acid Drop",
+    "slug": "acid-drop",
+    "category": "design",
+    "lesson": "Visual fill-level feedback (beaker filling up) turns abstract progress into satisfying physical metaphor — players intuitively understand how close they are to level completion."
   }
 ]

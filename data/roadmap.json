@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12",
+  "updatedAt": "2026-02-14",
   "games": [
     {
       "slug": "pongish",
@@ -57,8 +57,9 @@
       "slug": "acid-drop",
       "title": "Acid Drop",
       "atariInspiration": "Atari 2600 — Acid Drop",
-      "status": "planned",
-      "plannedDate": null
+      "status": "published",
+      "plannedDate": "2026-02-14",
+      "updatedAt": "2026-02-14"
     },
     {
       "slug": "actionauts",
