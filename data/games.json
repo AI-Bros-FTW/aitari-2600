@@ -1,12 +1,21 @@
 [
   {
+    "slug": "adventure",
+    "title": "Adventure",
+    "date": "2026-02-21",
+    "version": "0.1.0",
+    "thumbnail": "/play/adventure/thumbnail.png",
+    "playUrl": "/play/adventure/index.html",
+    "atariInspiration": "Atari 2600 \u2014 Adventure"
+  },
+  {
     "slug": "actionauts",
     "title": "Actionauts",
     "date": "2026-02-15",
     "version": "0.1.0",
     "thumbnail": "/play/actionauts/thumbnail.png",
     "playUrl": "/play/actionauts/index.html",
-    "atariInspiration": "Atari 2600 — Actionauts"
+    "atariInspiration": "Atari 2600 \u2014 Actionauts"
   },
   {
     "slug": "acid-drop",
@@ -15,7 +24,7 @@
     "version": "0.1.0",
     "thumbnail": "/play/acid-drop/thumbnail.png",
     "playUrl": "/play/acid-drop/index.html",
-    "atariInspiration": "Atari 2600 — Acid Drop"
+    "atariInspiration": "Atari 2600 \u2014 Acid Drop"
   },
   {
     "slug": "aardvark",
@@ -24,7 +33,7 @@
     "version": "0.1.0",
     "thumbnail": "/play/aardvark/thumbnail.png",
     "playUrl": "/play/aardvark/index.html",
-    "atariInspiration": "Atari 2600 — Aardvark"
+    "atariInspiration": "Atari 2600 \u2014 Aardvark"
   },
   {
     "slug": "a-vcs-tec-challenge",
@@ -33,7 +42,7 @@
     "version": "0.1.0",
     "thumbnail": "/play/a-vcs-tec-challenge/thumbnail.png",
     "playUrl": "/play/a-vcs-tec-challenge/index.html",
-    "atariInspiration": "Atari 2600 — A-VCS-tec Challenge"
+    "atariInspiration": "Atari 2600 \u2014 A-VCS-tec Challenge"
   },
   {
     "slug": "3-d-tic-tac-toe",
@@ -42,7 +51,7 @@
     "version": "0.1.0",
     "thumbnail": "/play/3-d-tic-tac-toe/thumbnail.png",
     "playUrl": "/play/3-d-tic-tac-toe/index.html",
-    "atariInspiration": "Atari 2600 — 3-D Tic-Tac-Toe"
+    "atariInspiration": "Atari 2600 \u2014 3-D Tic-Tac-Toe"
   },
   {
     "slug": "2048-2600",
@@ -51,7 +60,7 @@
     "version": "0.1.0",
     "thumbnail": "/play/2048-2600/thumbnail.png",
     "playUrl": "/play/2048-2600/index.html",
-    "atariInspiration": "Atari 2600 — 2048 2600"
+    "atariInspiration": "Atari 2600 \u2014 2048 2600"
   },
   {
     "slug": "asteroidsish",

@@ -11,7 +11,7 @@
     "game": "Pong-ish",
     "slug": "pongish",
     "category": "design",
-    "lesson": "Add tiny juice (screen shake, bleep) but keep the loop readable—clarity > effects."
+    "lesson": "Add tiny juice (screen shake, bleep) but keep the loop readable\u2014clarity > effects."
   },
   {
     "date": "2026-01-31",
@@ -32,7 +32,7 @@
     "game": "Asteroids-ish",
     "slug": "asteroidsish",
     "category": "input",
-    "lesson": "Rotation-based movement needs different mobile UX than paddle games — joystick axis mapping (X=rotate, Y=thrust) is workable but not as tight as keyboard."
+    "lesson": "Rotation-based movement needs different mobile UX than paddle games \u2014 joystick axis mapping (X=rotate, Y=thrust) is workable but not as tight as keyboard."
   },
   {
     "date": "2026-02-08",
@@ -46,14 +46,14 @@
     "game": "2048 2600",
     "slug": "2048-2600",
     "category": "input",
-    "lesson": "For discrete-direction games, swipe detection beats virtual buttons or joysticks — match the input method to the game's movement model."
+    "lesson": "For discrete-direction games, swipe detection beats virtual buttons or joysticks \u2014 match the input method to the game's movement model."
   },
   {
     "date": "2026-02-09",
     "game": "2048 2600",
     "slug": "2048-2600",
     "category": "design",
-    "lesson": "Puzzle games need animation bookkeeping (slide sources, merge targets, new spawns) even though the logic is simple — the feel lives in the transitions."
+    "lesson": "Puzzle games need animation bookkeeping (slide sources, merge targets, new spawns) even though the logic is simple \u2014 the feel lives in the transitions."
   },
   {
     "date": "2026-02-09",
@@ -67,76 +67,97 @@
     "game": "3-D Tic-Tac-Toe",
     "slug": "3-d-tic-tac-toe",
     "category": "design",
-    "lesson": "When representing 3D grids in 2D, showing all layers simultaneously beats layer-switching UX — players need full board visibility for strategic games."
+    "lesson": "When representing 3D grids in 2D, showing all layers simultaneously beats layer-switching UX \u2014 players need full board visibility for strategic games."
   },
   {
     "date": "2026-02-10",
     "game": "3-D Tic-Tac-Toe",
     "slug": "3-d-tic-tac-toe",
     "category": "ai",
-    "lesson": "For board game AI, check immediate wins/blocks before running minimax — it's both faster and ensures the AI never misses an obvious move at any search depth."
+    "lesson": "For board game AI, check immediate wins/blocks before running minimax \u2014 it's both faster and ensures the AI never misses an obvious move at any search depth."
   },
   {
     "date": "2026-02-10",
     "game": "3-D Tic-Tac-Toe",
     "slug": "3-d-tic-tac-toe",
     "category": "input",
-    "lesson": "64 tap targets on mobile is viable if cells fill available space and ghost previews confirm selection — don't hide information behind navigation when spatial awareness matters."
+    "lesson": "64 tap targets on mobile is viable if cells fill available space and ghost previews confirm selection \u2014 don't hide information behind navigation when spatial awareness matters."
   },
   {
     "date": "2026-02-11",
     "game": "A-VCS-tec Challenge",
     "slug": "a-vcs-tec-challenge",
     "category": "design",
-    "lesson": "Multi-level games benefit from distinct control schemes per level — jump/duck for side-scrolling vs lane-switching for vertical climbing keeps the same inputs feeling fresh."
+    "lesson": "Multi-level games benefit from distinct control schemes per level \u2014 jump/duck for side-scrolling vs lane-switching for vertical climbing keeps the same inputs feeling fresh."
   },
   {
     "date": "2026-02-11",
     "game": "A-VCS-tec Challenge",
     "slug": "a-vcs-tec-challenge",
     "category": "design",
-    "lesson": "Progress bars in endless-feeling runner levels transform anxiety into motivation — players push harder when they can see the finish line approaching."
+    "lesson": "Progress bars in endless-feeling runner levels transform anxiety into motivation \u2014 players push harder when they can see the finish line approaching."
   },
   {
     "date": "2026-02-12",
     "game": "Aardvark",
     "slug": "aardvark",
     "category": "design",
-    "lesson": "Grid-based movement with player-driven terrain modification (digging) adds emergent strategy to simple games — players create their own level layout through play."
+    "lesson": "Grid-based movement with player-driven terrain modification (digging) adds emergent strategy to simple games \u2014 players create their own level layout through play."
   },
   {
     "date": "2026-02-12",
     "game": "Aardvark",
     "slug": "aardvark",
     "category": "mechanics",
-    "lesson": "Auto-attacking tongue that extends through tunnel cells creates a natural risk/reward loop — longer reach means catching more ants but also more exposure to fire ants."
+    "lesson": "Auto-attacking tongue that extends through tunnel cells creates a natural risk/reward loop \u2014 longer reach means catching more ants but also more exposure to fire ants."
   },
   {
     "date": "2026-02-14",
     "game": "Acid Drop",
     "slug": "acid-drop",
     "category": "design",
-    "lesson": "Horizontal-only movement games map perfectly to two-button mobile controls — when the game fits, simpler inputs beat joysticks every time."
+    "lesson": "Horizontal-only movement games map perfectly to two-button mobile controls \u2014 when the game fits, simpler inputs beat joysticks every time."
   },
   {
     "date": "2026-02-14",
     "game": "Acid Drop",
     "slug": "acid-drop",
     "category": "design",
-    "lesson": "Visual fill-level feedback (beaker filling up) turns abstract progress into satisfying physical metaphor — players intuitively understand how close they are to level completion."
+    "lesson": "Visual fill-level feedback (beaker filling up) turns abstract progress into satisfying physical metaphor \u2014 players intuitively understand how close they are to level completion."
   },
   {
     "date": "2026-02-15",
     "game": "Actionauts",
     "slug": "actionauts",
     "category": "design",
-    "lesson": "Platform games need generous landing detection — being slightly forgiving with collision makes the game feel responsive rather than frustrating."
+    "lesson": "Platform games need generous landing detection \u2014 being slightly forgiving with collision makes the game feel responsive rather than frustrating."
   },
   {
     "date": "2026-02-15",
     "game": "Actionauts",
     "slug": "actionauts",
     "category": "input",
-    "lesson": "Three-button mobile layout (left, jump, right) works well for platformers — keep jump in the center of the d-pad row for natural thumb reach."
+    "lesson": "Three-button mobile layout (left, jump, right) works well for platformers \u2014 keep jump in the center of the d-pad row for natural thumb reach."
+  },
+  {
+    "date": "2026-02-21",
+    "game": "Adventure",
+    "slug": "adventure",
+    "category": "design",
+    "lesson": "Maze exploration games need clear visual differentiation between rooms \u2014 distinct colors and wall layouts prevent player confusion."
+  },
+  {
+    "date": "2026-02-21",
+    "game": "Adventure",
+    "slug": "adventure",
+    "category": "gameplay",
+    "lesson": "AI-driven enemies (dragon chase behavior) add tension even in simple games \u2014 predictable but relentless pursuit creates urgency."
+  },
+  {
+    "date": "2026-02-21",
+    "game": "Adventure",
+    "slug": "adventure",
+    "category": "architecture",
+    "lesson": "Room-based game worlds are elegant: each room is self-contained state, transitions happen at boundaries, and the system scales by adding rooms."
   }
 ]

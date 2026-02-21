@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15",
+  "updatedAt": "2026-02-21",
   "games": [
     {
       "slug": "pongish",
@@ -25,14 +25,14 @@
     {
       "slug": "2048-2600",
       "title": "2048 2600",
-      "atariInspiration": "Atari 2600 — 2048 2600",
+      "atariInspiration": "Atari 2600 \u2014 2048 2600",
       "status": "published",
       "plannedDate": "2026-02-09"
     },
     {
       "slug": "3-d-tic-tac-toe",
       "title": "3-D Tic-Tac-Toe",
-      "atariInspiration": "Atari 2600 — 3-D Tic-Tac-Toe",
+      "atariInspiration": "Atari 2600 \u2014 3-D Tic-Tac-Toe",
       "status": "published",
       "plannedDate": "2026-02-10",
       "updatedAt": "2026-02-10"
@@ -40,7 +40,7 @@
     {
       "slug": "a-vcs-tec-challenge",
       "title": "A-VCS-tec Challenge",
-      "atariInspiration": "Atari 2600 — A-VCS-tec Challenge",
+      "atariInspiration": "Atari 2600 \u2014 A-VCS-tec Challenge",
       "status": "published",
       "plannedDate": "2026-02-11",
       "updatedAt": "2026-02-11"
@@ -48,7 +48,7 @@
     {
       "slug": "aardvark",
       "title": "Aardvark",
-      "atariInspiration": "Atari 2600 — Aardvark",
+      "atariInspiration": "Atari 2600 \u2014 Aardvark",
       "status": "published",
       "plannedDate": "2026-02-12",
       "updatedAt": "2026-02-12"
@@ -56,7 +56,7 @@
     {
       "slug": "acid-drop",
       "title": "Acid Drop",
-      "atariInspiration": "Atari 2600 — Acid Drop",
+      "atariInspiration": "Atari 2600 \u2014 Acid Drop",
       "status": "published",
       "plannedDate": "2026-02-14",
       "updatedAt": "2026-02-14"
@@ -64,7 +64,7 @@
     {
       "slug": "actionauts",
       "title": "Actionauts",
-      "atariInspiration": "Atari 2600 — Actionauts",
+      "atariInspiration": "Atari 2600 \u2014 Actionauts",
       "status": "published",
       "plannedDate": "2026-02-15",
       "updatedAt": "2026-02-15"
@@ -72,3934 +72,3935 @@
     {
       "slug": "adventure",
       "title": "Adventure",
-      "atariInspiration": "Atari 2600 — Adventure",
-      "status": "planned",
-      "plannedDate": null
+      "atariInspiration": "Atari 2600 \u2014 Adventure",
+      "status": "published",
+      "plannedDate": "2026-02-21",
+      "updatedAt": "2026-02-21"
     },
     {
       "slug": "adventures-of-tron",
       "title": "Adventures of Tron",
-      "atariInspiration": "Atari 2600 — Adventures of Tron",
+      "atariInspiration": "Atari 2600 \u2014 Adventures of Tron",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "air-raid",
       "title": "Air Raid",
-      "atariInspiration": "Atari 2600 — Air Raid",
+      "atariInspiration": "Atari 2600 \u2014 Air Raid",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "air-raiders",
       "title": "Air Raiders",
-      "atariInspiration": "Atari 2600 — Air Raiders",
+      "atariInspiration": "Atari 2600 \u2014 Air Raiders",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "air-sea-battle",
       "title": "Air-Sea Battle",
-      "atariInspiration": "Atari 2600 — Air-Sea Battle",
+      "atariInspiration": "Atari 2600 \u2014 Air-Sea Battle",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "airlock",
       "title": "Airlock",
-      "atariInspiration": "Atari 2600 — Airlock",
+      "atariInspiration": "Atari 2600 \u2014 Airlock",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "alfred-challenge",
       "title": "Alfred Challenge",
-      "atariInspiration": "Atari 2600 — Alfred Challenge",
+      "atariInspiration": "Atari 2600 \u2014 Alfred Challenge",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "alien",
       "title": "Alien",
-      "atariInspiration": "Atari 2600 — Alien",
+      "atariInspiration": "Atari 2600 \u2014 Alien",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "alien-greed",
       "title": "Alien Greed",
-      "atariInspiration": "Atari 2600 — Alien Greed",
+      "atariInspiration": "Atari 2600 \u2014 Alien Greed",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "alien-greed-2",
       "title": "Alien Greed 2",
-      "atariInspiration": "Atari 2600 — Alien Greed 2",
+      "atariInspiration": "Atari 2600 \u2014 Alien Greed 2",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "alien-greed-3",
       "title": "Alien Greed 3",
-      "atariInspiration": "Atari 2600 — Alien Greed 3",
+      "atariInspiration": "Atari 2600 \u2014 Alien Greed 3",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "alien-greed-4",
       "title": "Alien Greed 4",
-      "atariInspiration": "Atari 2600 — Alien Greed 4",
+      "atariInspiration": "Atari 2600 \u2014 Alien Greed 4",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "alien-holocaust",
       "title": "Alien Holocaust",
-      "atariInspiration": "Atari 2600 — Alien Holocaust",
+      "atariInspiration": "Atari 2600 \u2014 Alien Holocaust",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "alien-holocaust-2-invasion-earth",
       "title": "Alien Holocaust 2: Invasion Earth",
-      "atariInspiration": "Atari 2600 — Alien Holocaust 2: Invasion Earth",
+      "atariInspiration": "Atari 2600 \u2014 Alien Holocaust 2: Invasion Earth",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "allia-quest",
       "title": "Allia Quest",
-      "atariInspiration": "Atari 2600 — Allia Quest",
+      "atariInspiration": "Atari 2600 \u2014 Allia Quest",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "alpha-beam-with-ernie",
       "title": "Alpha Beam with Ernie",
-      "atariInspiration": "Atari 2600 — Alpha Beam with Ernie",
+      "atariInspiration": "Atari 2600 \u2014 Alpha Beam with Ernie",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "amidar",
       "title": "Amidar",
-      "atariInspiration": "Atari 2600 — Amidar",
+      "atariInspiration": "Atari 2600 \u2014 Amidar",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "armor-ambush",
       "title": "Armor Ambush",
-      "atariInspiration": "Atari 2600 — Armor Ambush",
+      "atariInspiration": "Atari 2600 \u2014 Armor Ambush",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "artillery-duel",
       "title": "Artillery Duel",
-      "atariInspiration": "Atari 2600 — Artillery Duel",
+      "atariInspiration": "Atari 2600 \u2014 Artillery Duel",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "assault",
       "title": "Assault",
-      "atariInspiration": "Atari 2600 — Assault",
+      "atariInspiration": "Atari 2600 \u2014 Assault",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "asteroids",
       "title": "Asteroids",
-      "atariInspiration": "Atari 2600 — Asteroids",
+      "atariInspiration": "Atari 2600 \u2014 Asteroids",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "astroblast",
       "title": "Astroblast",
-      "atariInspiration": "Atari 2600 — Astroblast",
+      "atariInspiration": "Atari 2600 \u2014 Astroblast",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "astrowar",
       "title": "Astrowar",
-      "atariInspiration": "Atari 2600 — Astrowar",
+      "atariInspiration": "Atari 2600 \u2014 Astrowar",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "atari-video-cube",
       "title": "Atari Video Cube",
-      "atariInspiration": "Atari 2600 — Atari Video Cube",
+      "atariInspiration": "Atari 2600 \u2014 Atari Video Cube",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "atlantis",
       "title": "Atlantis",
-      "atariInspiration": "Atari 2600 — Atlantis",
+      "atariInspiration": "Atari 2600 \u2014 Atlantis",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "atlantis-ii",
       "title": "Atlantis II",
-      "atariInspiration": "Atari 2600 — Atlantis II",
+      "atariInspiration": "Atari 2600 \u2014 Atlantis II",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "avalanche",
       "title": "Avalanche",
-      "atariInspiration": "Atari 2600 — Avalanche",
+      "atariInspiration": "Atari 2600 \u2014 Avalanche",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bachelor-party",
       "title": "Bachelor Party",
-      "atariInspiration": "Atari 2600 — Bachelor Party",
+      "atariInspiration": "Atari 2600 \u2014 Bachelor Party",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "backgammon",
       "title": "Backgammon",
-      "atariInspiration": "Atari 2600 — Backgammon",
+      "atariInspiration": "Atari 2600 \u2014 Backgammon",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bank-heist",
       "title": "Bank Heist",
-      "atariInspiration": "Atari 2600 — Bank Heist",
+      "atariInspiration": "Atari 2600 \u2014 Bank Heist",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "barnstorming",
       "title": "Barnstorming",
-      "atariInspiration": "Atari 2600 — Barnstorming",
+      "atariInspiration": "Atari 2600 \u2014 Barnstorming",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "base-attack",
       "title": "Base Attack",
-      "atariInspiration": "Atari 2600 — Base Attack",
+      "atariInspiration": "Atari 2600 \u2014 Base Attack",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "basic-math",
       "title": "Basic Math",
-      "atariInspiration": "Atari 2600 — Basic Math",
+      "atariInspiration": "Atari 2600 \u2014 Basic Math",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "basic-programming",
       "title": "BASIC Programming",
-      "atariInspiration": "Atari 2600 — BASIC Programming",
+      "atariInspiration": "Atari 2600 \u2014 BASIC Programming",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "basketball",
       "title": "Basketball",
-      "atariInspiration": "Atari 2600 — Basketball",
+      "atariInspiration": "Atari 2600 \u2014 Basketball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "battlezone",
       "title": "BattleZone",
-      "atariInspiration": "Atari 2600 — BattleZone",
+      "atariInspiration": "Atari 2600 \u2014 BattleZone",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "beamrider",
       "title": "Beamrider",
-      "atariInspiration": "Atari 2600 — Beamrider",
+      "atariInspiration": "Atari 2600 \u2014 Beamrider",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "beany-bopper",
       "title": "Beany Bopper",
-      "atariInspiration": "Atari 2600 — Beany Bopper",
+      "atariInspiration": "Atari 2600 \u2014 Beany Bopper",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "beat-em-and-eat-em",
       "title": "Beat Em and Eat Em",
-      "atariInspiration": "Atari 2600 — Beat Em and Eat Em",
+      "atariInspiration": "Atari 2600 \u2014 Beat Em and Eat Em",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bee-ball",
       "title": "Bee-Ball",
-      "atariInspiration": "Atari 2600 — Bee-Ball",
+      "atariInspiration": "Atari 2600 \u2014 Bee-Ball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bell-hopper",
       "title": "Bell Hopper",
-      "atariInspiration": "Atari 2600 — Bell Hopper",
+      "atariInspiration": "Atari 2600 \u2014 Bell Hopper",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "berenstain-bears",
       "title": "Berenstain Bears",
-      "atariInspiration": "Atari 2600 — Berenstain Bears",
+      "atariInspiration": "Atari 2600 \u2014 Berenstain Bears",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bermuda-triangle",
       "title": "Bermuda Triangle",
-      "atariInspiration": "Atari 2600 — Bermuda Triangle",
+      "atariInspiration": "Atari 2600 \u2014 Bermuda Triangle",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "berzerk",
       "title": "Berzerk",
-      "atariInspiration": "Atari 2600 — Berzerk",
+      "atariInspiration": "Atari 2600 \u2014 Berzerk",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "berzerk-enhanced-edition",
       "title": "Berzerk (Enhanced Edition)",
-      "atariInspiration": "Atari 2600 — Berzerk (Enhanced Edition)",
+      "atariInspiration": "Atari 2600 \u2014 Berzerk (Enhanced Edition)",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "big-birds-egg-catch",
       "title": "Big Bird's Egg Catch",
-      "atariInspiration": "Atari 2600 — Big Bird's Egg Catch",
+      "atariInspiration": "Atari 2600 \u2014 Big Bird's Egg Catch",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bigfoot-family-search",
       "title": "Bigfoot Family Search",
-      "atariInspiration": "Atari 2600 — Bigfoot Family Search",
+      "atariInspiration": "Atari 2600 \u2014 Bigfoot Family Search",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "birthday-mania",
       "title": "Birthday Mania",
-      "atariInspiration": "Atari 2600 — Birthday Mania",
+      "atariInspiration": "Atari 2600 \u2014 Birthday Mania",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "blackjack",
       "title": "Blackjack",
-      "atariInspiration": "Atari 2600 — Blackjack",
+      "atariInspiration": "Atari 2600 \u2014 Blackjack",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "blue-print",
       "title": "Blue Print",
-      "atariInspiration": "Atari 2600 — Blue Print",
+      "atariInspiration": "Atari 2600 \u2014 Blue Print",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bmx-air-master",
       "title": "BMX Air Master",
-      "atariInspiration": "Atari 2600 — BMX Air Master",
+      "atariInspiration": "Atari 2600 \u2014 BMX Air Master",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bobby-is-going-home",
       "title": "Bobby is Going Home",
-      "atariInspiration": "Atari 2600 — Bobby is Going Home",
+      "atariInspiration": "Atari 2600 \u2014 Bobby is Going Home",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "boing",
       "title": "Boing!",
-      "atariInspiration": "Atari 2600 — Boing!",
+      "atariInspiration": "Atari 2600 \u2014 Boing!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "boulder-dash",
       "title": "Boulder Dash",
-      "atariInspiration": "Atari 2600 — Boulder Dash",
+      "atariInspiration": "Atari 2600 \u2014 Boulder Dash",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bowling",
       "title": "Bowling",
-      "atariInspiration": "Atari 2600 — Bowling",
+      "atariInspiration": "Atari 2600 \u2014 Bowling",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "boxing",
       "title": "Boxing",
-      "atariInspiration": "Atari 2600 — Boxing",
+      "atariInspiration": "Atari 2600 \u2014 Boxing",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "brain-games",
       "title": "Brain Games",
-      "atariInspiration": "Atari 2600 — Brain Games",
+      "atariInspiration": "Atari 2600 \u2014 Brain Games",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "breakout",
       "title": "Breakout",
-      "atariInspiration": "Atari 2600 — Breakout",
+      "atariInspiration": "Atari 2600 \u2014 Breakout",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bridge",
       "title": "Bridge",
-      "atariInspiration": "Atari 2600 — Bridge",
+      "atariInspiration": "Atari 2600 \u2014 Bridge",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "buck-rogers-planet-of-zoom",
       "title": "Buck Rogers: Planet of Zoom",
-      "atariInspiration": "Atari 2600 — Buck Rogers: Planet of Zoom",
+      "atariInspiration": "Atari 2600 \u2014 Buck Rogers: Planet of Zoom",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bugs",
       "title": "Bugs",
-      "atariInspiration": "Atari 2600 — Bugs",
+      "atariInspiration": "Atari 2600 \u2014 Bugs",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bump-n-jump",
       "title": "Bump 'n' Jump",
-      "atariInspiration": "Atari 2600 — Bump 'n' Jump",
+      "atariInspiration": "Atari 2600 \u2014 Bump 'n' Jump",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "bumper-bash",
       "title": "Bumper Bash",
-      "atariInspiration": "Atari 2600 — Bumper Bash",
+      "atariInspiration": "Atari 2600 \u2014 Bumper Bash",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "burgertime",
       "title": "BurgerTime",
-      "atariInspiration": "Atari 2600 — BurgerTime",
+      "atariInspiration": "Atari 2600 \u2014 BurgerTime",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "burning-desire",
       "title": "Burning Desire",
-      "atariInspiration": "Atari 2600 — Burning Desire",
+      "atariInspiration": "Atari 2600 \u2014 Burning Desire",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "cakewalk",
       "title": "Cakewalk",
-      "atariInspiration": "Atari 2600 — Cakewalk",
+      "atariInspiration": "Atari 2600 \u2014 Cakewalk",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "california-games",
       "title": "California Games",
-      "atariInspiration": "Atari 2600 — California Games",
+      "atariInspiration": "Atari 2600 \u2014 California Games",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "canyon-bomber",
       "title": "Canyon Bomber",
-      "atariInspiration": "Atari 2600 — Canyon Bomber",
+      "atariInspiration": "Atari 2600 \u2014 Canyon Bomber",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "carnival",
       "title": "Carnival",
-      "atariInspiration": "Atari 2600 — Carnival",
+      "atariInspiration": "Atari 2600 \u2014 Carnival",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "casino",
       "title": "Casino",
-      "atariInspiration": "Atari 2600 — Casino",
+      "atariInspiration": "Atari 2600 \u2014 Casino",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "cat-trax",
       "title": "Cat Trax",
-      "atariInspiration": "Atari 2600 — Cat Trax",
+      "atariInspiration": "Atari 2600 \u2014 Cat Trax",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "caverns-of-mars",
       "title": "Caverns of Mars",
-      "atariInspiration": "Atari 2600 — Caverns of Mars",
+      "atariInspiration": "Atari 2600 \u2014 Caverns of Mars",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "centipede",
       "title": "Centipede",
-      "atariInspiration": "Atari 2600 — Centipede",
+      "atariInspiration": "Atari 2600 \u2014 Centipede",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "challenge",
       "title": "Challenge",
-      "atariInspiration": "Atari 2600 — Challenge",
+      "atariInspiration": "Atari 2600 \u2014 Challenge",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "challenge-of-nexar",
       "title": "Challenge of Nexar",
-      "atariInspiration": "Atari 2600 — Challenge of Nexar",
+      "atariInspiration": "Atari 2600 \u2014 Challenge of Nexar",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "chase-the-chuck-wagon",
       "title": "Chase the Chuck Wagon",
-      "atariInspiration": "Atari 2600 — Chase the Chuck Wagon",
+      "atariInspiration": "Atari 2600 \u2014 Chase the Chuck Wagon",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "checkers",
       "title": "Checkers",
-      "atariInspiration": "Atari 2600 — Checkers",
+      "atariInspiration": "Atari 2600 \u2014 Checkers",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "chetiry",
       "title": "Chetiry",
-      "atariInspiration": "Atari 2600 — Chetiry",
+      "atariInspiration": "Atari 2600 \u2014 Chetiry",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "china-syndrome",
       "title": "China Syndrome",
-      "atariInspiration": "Atari 2600 — China Syndrome",
+      "atariInspiration": "Atari 2600 \u2014 China Syndrome",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "chopper-command",
       "title": "Chopper Command",
-      "atariInspiration": "Atari 2600 — Chopper Command",
+      "atariInspiration": "Atari 2600 \u2014 Chopper Command",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "chuck-norris-superkicks",
       "title": "Chuck Norris Superkicks",
-      "atariInspiration": "Atari 2600 — Chuck Norris Superkicks",
+      "atariInspiration": "Atari 2600 \u2014 Chuck Norris Superkicks",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "circus-atari",
       "title": "Circus Atari",
-      "atariInspiration": "Atari 2600 — Circus Atari",
+      "atariInspiration": "Atari 2600 \u2014 Circus Atari",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "circus-convoy",
       "title": "Circus Convoy",
-      "atariInspiration": "Atari 2600 — Circus Convoy",
+      "atariInspiration": "Atari 2600 \u2014 Circus Convoy",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "climber-5",
       "title": "Climber 5",
-      "atariInspiration": "Atari 2600 — Climber 5",
+      "atariInspiration": "Atari 2600 \u2014 Climber 5",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "coconuts",
       "title": "Coconuts",
-      "atariInspiration": "Atari 2600 — Coconuts",
+      "atariInspiration": "Atari 2600 \u2014 Coconuts",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "codebreaker",
       "title": "Codebreaker",
-      "atariInspiration": "Atari 2600 — Codebreaker",
+      "atariInspiration": "Atari 2600 \u2014 Codebreaker",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "combat",
       "title": "Combat",
-      "atariInspiration": "Atari 2600 — Combat",
+      "atariInspiration": "Atari 2600 \u2014 Combat",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "commando",
       "title": "Commando",
-      "atariInspiration": "Atari 2600 — Commando",
+      "atariInspiration": "Atari 2600 \u2014 Commando",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "commando-raid",
       "title": "Commando Raid",
-      "atariInspiration": "Atari 2600 — Commando Raid",
+      "atariInspiration": "Atari 2600 \u2014 Commando Raid",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "communist-mutants-from-space",
       "title": "Communist Mutants from Space",
-      "atariInspiration": "Atari 2600 — Communist Mutants from Space",
+      "atariInspiration": "Atari 2600 \u2014 Communist Mutants from Space",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "concentration",
       "title": "Concentration",
-      "atariInspiration": "Atari 2600 — Concentration",
+      "atariInspiration": "Atari 2600 \u2014 Concentration",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "condor-attack",
       "title": "Condor Attack",
-      "atariInspiration": "Atari 2600 — Condor Attack",
+      "atariInspiration": "Atari 2600 \u2014 Condor Attack",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "confrontation",
       "title": "Confrontation",
-      "atariInspiration": "Atari 2600 — Confrontation",
+      "atariInspiration": "Atari 2600 \u2014 Confrontation",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "congo-bongo",
       "title": "Congo Bongo",
-      "atariInspiration": "Atari 2600 — Congo Bongo",
+      "atariInspiration": "Atari 2600 \u2014 Congo Bongo",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "conquest-of-mars",
       "title": "Conquest of Mars",
-      "atariInspiration": "Atari 2600 — Conquest of Mars",
+      "atariInspiration": "Atari 2600 \u2014 Conquest of Mars",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "cookie-monster-munch",
       "title": "Cookie Monster Munch",
-      "atariInspiration": "Atari 2600 — Cookie Monster Munch",
+      "atariInspiration": "Atari 2600 \u2014 Cookie Monster Munch",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "cosmic-ark",
       "title": "Cosmic Ark",
-      "atariInspiration": "Atari 2600 — Cosmic Ark",
+      "atariInspiration": "Atari 2600 \u2014 Cosmic Ark",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "cosmic-commuter",
       "title": "Cosmic Commuter",
-      "atariInspiration": "Atari 2600 — Cosmic Commuter",
+      "atariInspiration": "Atari 2600 \u2014 Cosmic Commuter",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "cosmic-creeps",
       "title": "Cosmic Creeps",
-      "atariInspiration": "Atari 2600 — Cosmic Creeps",
+      "atariInspiration": "Atari 2600 \u2014 Cosmic Creeps",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "cosmic-swarm",
       "title": "Cosmic Swarm",
-      "atariInspiration": "Atari 2600 — Cosmic Swarm",
+      "atariInspiration": "Atari 2600 \u2014 Cosmic Swarm",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "crackpots",
       "title": "Crackpots",
-      "atariInspiration": "Atari 2600 — Crackpots",
+      "atariInspiration": "Atari 2600 \u2014 Crackpots",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "crash-dive",
       "title": "Crash Dive",
-      "atariInspiration": "Atari 2600 — Crash Dive",
+      "atariInspiration": "Atari 2600 \u2014 Crash Dive",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "crazy-climber",
       "title": "Crazy Climber",
-      "atariInspiration": "Atari 2600 — Crazy Climber",
+      "atariInspiration": "Atari 2600 \u2014 Crazy Climber",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "cross-force",
       "title": "Cross Force",
-      "atariInspiration": "Atari 2600 — Cross Force",
+      "atariInspiration": "Atari 2600 \u2014 Cross Force",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "crossbow",
       "title": "Crossbow",
-      "atariInspiration": "Atari 2600 — Crossbow",
+      "atariInspiration": "Atari 2600 \u2014 Crossbow",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "crypts-of-chaos",
       "title": "Crypts of Chaos",
-      "atariInspiration": "Atari 2600 — Crypts of Chaos",
+      "atariInspiration": "Atari 2600 \u2014 Crypts of Chaos",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "crystal-castles",
       "title": "Crystal Castles",
-      "atariInspiration": "Atari 2600 — Crystal Castles",
+      "atariInspiration": "Atari 2600 \u2014 Crystal Castles",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "cubicolor",
       "title": "Cubicolor",
-      "atariInspiration": "Atari 2600 — Cubicolor",
+      "atariInspiration": "Atari 2600 \u2014 Cubicolor",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "custers-revenge",
       "title": "Custer's Revenge",
-      "atariInspiration": "Atari 2600 — Custer's Revenge",
+      "atariInspiration": "Atari 2600 \u2014 Custer's Revenge",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dancing-plate",
       "title": "Dancing Plate",
-      "atariInspiration": "Atari 2600 — Dancing Plate",
+      "atariInspiration": "Atari 2600 \u2014 Dancing Plate",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dark-cavern",
       "title": "Dark Cavern",
-      "atariInspiration": "Atari 2600 — Dark Cavern",
+      "atariInspiration": "Atari 2600 \u2014 Dark Cavern",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dark-chambers",
       "title": "Dark Chambers",
-      "atariInspiration": "Atari 2600 — Dark Chambers",
+      "atariInspiration": "Atari 2600 \u2014 Dark Chambers",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dark-mage",
       "title": "Dark Mage",
-      "atariInspiration": "Atari 2600 — Dark Mage",
+      "atariInspiration": "Atari 2600 \u2014 Dark Mage",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "deadly-duck",
       "title": "Deadly Duck",
-      "atariInspiration": "Atari 2600 — Deadly Duck",
+      "atariInspiration": "Atari 2600 \u2014 Deadly Duck",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "death-trap",
       "title": "Death Trap",
-      "atariInspiration": "Atari 2600 — Death Trap",
+      "atariInspiration": "Atari 2600 \u2014 Death Trap",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "defender",
       "title": "Defender",
-      "atariInspiration": "Atari 2600 — Defender",
+      "atariInspiration": "Atari 2600 \u2014 Defender",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "demolition-herby",
       "title": "Demolition Herby",
-      "atariInspiration": "Atari 2600 — Demolition Herby",
+      "atariInspiration": "Atari 2600 \u2014 Demolition Herby",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "demon-attack",
       "title": "Demon Attack",
-      "atariInspiration": "Atari 2600 — Demon Attack",
+      "atariInspiration": "Atari 2600 \u2014 Demon Attack",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "demons-to-diamonds",
       "title": "Demons to Diamonds",
-      "atariInspiration": "Atari 2600 — Demons to Diamonds",
+      "atariInspiration": "Atari 2600 \u2014 Demons to Diamonds",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "desert-falcon",
       "title": "Desert Falcon",
-      "atariInspiration": "Atari 2600 — Desert Falcon",
+      "atariInspiration": "Atari 2600 \u2014 Desert Falcon",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dice-puzzle",
       "title": "Dice Puzzle",
-      "atariInspiration": "Atari 2600 — Dice Puzzle",
+      "atariInspiration": "Atari 2600 \u2014 Dice Puzzle",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dig-dug",
       "title": "Dig Dug",
-      "atariInspiration": "Atari 2600 — Dig Dug",
+      "atariInspiration": "Atari 2600 \u2014 Dig Dug",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dodge-em",
       "title": "Dodge 'Em",
-      "atariInspiration": "Atari 2600 — Dodge 'Em",
+      "atariInspiration": "Atari 2600 \u2014 Dodge 'Em",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dolphin",
       "title": "Dolphin",
-      "atariInspiration": "Atari 2600 — Dolphin",
+      "atariInspiration": "Atari 2600 \u2014 Dolphin",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "donald-ducks-speedboat",
       "title": "Donald Duck's Speedboat",
-      "atariInspiration": "Atari 2600 — Donald Duck's Speedboat",
+      "atariInspiration": "Atari 2600 \u2014 Donald Duck's Speedboat",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "donkey-kong",
       "title": "Donkey Kong",
-      "atariInspiration": "Atari 2600 — Donkey Kong",
+      "atariInspiration": "Atari 2600 \u2014 Donkey Kong",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "donkey-kong-junior",
       "title": "Donkey Kong Junior",
-      "atariInspiration": "Atari 2600 — Donkey Kong Junior",
+      "atariInspiration": "Atari 2600 \u2014 Donkey Kong Junior",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "double-dragon",
       "title": "Double Dragon",
-      "atariInspiration": "Atari 2600 — Double Dragon",
+      "atariInspiration": "Atari 2600 \u2014 Double Dragon",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "double-dunk",
       "title": "Double Dunk",
-      "atariInspiration": "Atari 2600 — Double Dunk",
+      "atariInspiration": "Atari 2600 \u2014 Double Dunk",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "draconian",
       "title": "Draconian",
-      "atariInspiration": "Atari 2600 — Draconian",
+      "atariInspiration": "Atari 2600 \u2014 Draconian",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dragonfire",
       "title": "Dragonfire",
-      "atariInspiration": "Atari 2600 — Dragonfire",
+      "atariInspiration": "Atari 2600 \u2014 Dragonfire",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dragonstomper",
       "title": "Dragonstomper",
-      "atariInspiration": "Atari 2600 — Dragonstomper",
+      "atariInspiration": "Atari 2600 \u2014 Dragonstomper",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dragster",
       "title": "Dragster",
-      "atariInspiration": "Atari 2600 — Dragster",
+      "atariInspiration": "Atari 2600 \u2014 Dragster",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "duck-attack",
       "title": "Duck Attack!",
-      "atariInspiration": "Atari 2600 — Duck Attack!",
+      "atariInspiration": "Atari 2600 \u2014 Duck Attack!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dungeon",
       "title": "Dungeon",
-      "atariInspiration": "Atari 2600 — Dungeon",
+      "atariInspiration": "Atari 2600 \u2014 Dungeon",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "dungeon-ii-solstice",
       "title": "Dungeon II: Solstice",
-      "atariInspiration": "Atari 2600 — Dungeon II: Solstice",
+      "atariInspiration": "Atari 2600 \u2014 Dungeon II: Solstice",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "e-t-the-extra-terrestrial",
       "title": "E.T. the Extra-Terrestrial",
-      "atariInspiration": "Atari 2600 — E.T. the Extra-Terrestrial",
+      "atariInspiration": "Atari 2600 \u2014 E.T. the Extra-Terrestrial",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "eddy-langfinger-der-museumsdieb",
       "title": "Eddy Langfinger, der Museumsdieb",
-      "atariInspiration": "Atari 2600 — Eddy Langfinger, der Museumsdieb",
+      "atariInspiration": "Atari 2600 \u2014 Eddy Langfinger, der Museumsdieb",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "edtris-2600",
       "title": "Edtris 2600",
-      "atariInspiration": "Atari 2600 — Edtris 2600",
+      "atariInspiration": "Atari 2600 \u2014 Edtris 2600",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "eggomania",
       "title": "Eggomania",
-      "atariInspiration": "Atari 2600 — Eggomania",
+      "atariInspiration": "Atari 2600 \u2014 Eggomania",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "elis-ladder",
       "title": "Eli's Ladder",
-      "atariInspiration": "Atari 2600 — Eli's Ladder",
+      "atariInspiration": "Atari 2600 \u2014 Eli's Ladder",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "encounter-at-l-5",
       "title": "Encounter at L-5",
-      "atariInspiration": "Atari 2600 — Encounter at L-5",
+      "atariInspiration": "Atari 2600 \u2014 Encounter at L-5",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "enduro",
       "title": "Enduro",
-      "atariInspiration": "Atari 2600 — Enduro",
+      "atariInspiration": "Atari 2600 \u2014 Enduro",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "entombed",
       "title": "Entombed",
-      "atariInspiration": "Atari 2600 — Entombed",
+      "atariInspiration": "Atari 2600 \u2014 Entombed",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "epyx",
       "title": "Epyx",
-      "atariInspiration": "Atari 2600 — Epyx",
+      "atariInspiration": "Atari 2600 \u2014 Epyx",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "escape-from-the-mindmaster",
       "title": "Escape from the Mindmaster",
-      "atariInspiration": "Atari 2600 — Escape from the Mindmaster",
+      "atariInspiration": "Atari 2600 \u2014 Escape from the Mindmaster",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "espial",
       "title": "Espial",
-      "atariInspiration": "Atari 2600 — Espial",
+      "atariInspiration": "Atari 2600 \u2014 Espial",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "euchre",
       "title": "Euchre",
-      "atariInspiration": "Atari 2600 — Euchre",
+      "atariInspiration": "Atari 2600 \u2014 Euchre",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "exocet",
       "title": "Exocet",
-      "atariInspiration": "Atari 2600 — Exocet",
+      "atariInspiration": "Atari 2600 \u2014 Exocet",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "extra-terrestrials",
       "title": "Extra Terrestrials",
-      "atariInspiration": "Atari 2600 — Extra Terrestrials",
+      "atariInspiration": "Atari 2600 \u2014 Extra Terrestrials",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "fall-down",
       "title": "Fall Down",
-      "atariInspiration": "Atari 2600 — Fall Down",
+      "atariInspiration": "Atari 2600 \u2014 Fall Down",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "fantastic-voyage",
       "title": "Fantastic Voyage",
-      "atariInspiration": "Atari 2600 — Fantastic Voyage",
+      "atariInspiration": "Atari 2600 \u2014 Fantastic Voyage",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "farmyard-fun",
       "title": "Farmyard Fun",
-      "atariInspiration": "Atari 2600 — Farmyard Fun",
+      "atariInspiration": "Atari 2600 \u2014 Farmyard Fun",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "fast-eddie",
       "title": "Fast Eddie",
-      "atariInspiration": "Atari 2600 — Fast Eddie",
+      "atariInspiration": "Atari 2600 \u2014 Fast Eddie",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "fast-food",
       "title": "Fast Food",
-      "atariInspiration": "Atari 2600 — Fast Food",
+      "atariInspiration": "Atari 2600 \u2014 Fast Food",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "fatal-run",
       "title": "Fatal Run",
-      "atariInspiration": "Atari 2600 — Fatal Run",
+      "atariInspiration": "Atari 2600 \u2014 Fatal Run",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "fathom",
       "title": "Fathom",
-      "atariInspiration": "Atari 2600 — Fathom",
+      "atariInspiration": "Atari 2600 \u2014 Fathom",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "final-approach",
       "title": "Final Approach",
-      "atariInspiration": "Atari 2600 — Final Approach",
+      "atariInspiration": "Atari 2600 \u2014 Final Approach",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "fire-fighter",
       "title": "Fire Fighter",
-      "atariInspiration": "Atari 2600 — Fire Fighter",
+      "atariInspiration": "Atari 2600 \u2014 Fire Fighter",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "fire-fly",
       "title": "Fire Fly",
-      "atariInspiration": "Atari 2600 — Fire Fly",
+      "atariInspiration": "Atari 2600 \u2014 Fire Fly",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "fireball",
       "title": "Fireball",
-      "atariInspiration": "Atari 2600 — Fireball",
+      "atariInspiration": "Atari 2600 \u2014 Fireball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "firebug",
       "title": "Firebug",
-      "atariInspiration": "Atari 2600 — Firebug",
+      "atariInspiration": "Atari 2600 \u2014 Firebug",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "fishing-derby",
       "title": "Fishing Derby",
-      "atariInspiration": "Atari 2600 — Fishing Derby",
+      "atariInspiration": "Atari 2600 \u2014 Fishing Derby",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "flag-capture",
       "title": "Flag Capture",
-      "atariInspiration": "Atari 2600 — Flag Capture",
+      "atariInspiration": "Atari 2600 \u2014 Flag Capture",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "flapping",
       "title": "FlapPing",
-      "atariInspiration": "Atari 2600 — FlapPing",
+      "atariInspiration": "Atari 2600 \u2014 FlapPing",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "flash-gordon",
       "title": "Flash Gordon",
-      "atariInspiration": "Atari 2600 — Flash Gordon",
+      "atariInspiration": "Atari 2600 \u2014 Flash Gordon",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "football",
       "title": "Football",
-      "atariInspiration": "Atari 2600 — Football",
+      "atariInspiration": "Atari 2600 \u2014 Football",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "forest",
       "title": "Forest",
-      "atariInspiration": "Atari 2600 — Forest",
+      "atariInspiration": "Atari 2600 \u2014 Forest",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "four-play",
       "title": "Four-Play",
-      "atariInspiration": "Atari 2600 — Four-Play",
+      "atariInspiration": "Atari 2600 \u2014 Four-Play",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "frankensteins-monster",
       "title": "Frankenstein's Monster",
-      "atariInspiration": "Atari 2600 — Frankenstein's Monster",
+      "atariInspiration": "Atari 2600 \u2014 Frankenstein's Monster",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "freeway",
       "title": "Freeway",
-      "atariInspiration": "Atari 2600 — Freeway",
+      "atariInspiration": "Atari 2600 \u2014 Freeway",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "frisco",
       "title": "Frisco",
-      "atariInspiration": "Atari 2600 — Frisco",
+      "atariInspiration": "Atari 2600 \u2014 Frisco",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "frogger",
       "title": "Frogger",
-      "atariInspiration": "Atari 2600 — Frogger",
+      "atariInspiration": "Atari 2600 \u2014 Frogger",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "frogger-ii-threeedeep",
       "title": "Frogger II: ThreeeDeep!",
-      "atariInspiration": "Atari 2600 — Frogger II: ThreeeDeep!",
+      "atariInspiration": "Atari 2600 \u2014 Frogger II: ThreeeDeep!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "frogs-and-flies",
       "title": "Frogs and Flies",
-      "atariInspiration": "Atari 2600 — Frogs and Flies",
+      "atariInspiration": "Atari 2600 \u2014 Frogs and Flies",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "front-line",
       "title": "Front Line",
-      "atariInspiration": "Atari 2600 — Front Line",
+      "atariInspiration": "Atari 2600 \u2014 Front Line",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "frostbite",
       "title": "Frostbite",
-      "atariInspiration": "Atari 2600 — Frostbite",
+      "atariInspiration": "Atari 2600 \u2014 Frostbite",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "g-i-joe-cobra-strike",
       "title": "G.I. Joe: Cobra Strike",
-      "atariInspiration": "Atari 2600 — G.I. Joe: Cobra Strike",
+      "atariInspiration": "Atari 2600 \u2014 G.I. Joe: Cobra Strike",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "galactopus",
       "title": "Galactopus!",
-      "atariInspiration": "Atari 2600 — Galactopus!",
+      "atariInspiration": "Atari 2600 \u2014 Galactopus!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "galagon",
       "title": "Galagon",
-      "atariInspiration": "Atari 2600 — Galagon",
+      "atariInspiration": "Atari 2600 \u2014 Galagon",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "galaxian",
       "title": "Galaxian",
-      "atariInspiration": "Atari 2600 — Galaxian",
+      "atariInspiration": "Atari 2600 \u2014 Galaxian",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gamma-attack",
       "title": "Gamma-Attack",
-      "atariInspiration": "Atari 2600 — Gamma-Attack",
+      "atariInspiration": "Atari 2600 \u2014 Gamma-Attack",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gangster-alley",
       "title": "Gangster Alley",
-      "atariInspiration": "Atari 2600 — Gangster Alley",
+      "atariInspiration": "Atari 2600 \u2014 Gangster Alley",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gas-hog",
       "title": "Gas Hog",
-      "atariInspiration": "Atari 2600 — Gas Hog",
+      "atariInspiration": "Atari 2600 \u2014 Gas Hog",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gauntlet",
       "title": "Gauntlet",
-      "atariInspiration": "Atari 2600 — Gauntlet",
+      "atariInspiration": "Atari 2600 \u2014 Gauntlet",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "ghost-manor",
       "title": "Ghost Manor",
-      "atariInspiration": "Atari 2600 — Ghost Manor",
+      "atariInspiration": "Atari 2600 \u2014 Ghost Manor",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "ghostbusters",
       "title": "Ghostbusters",
-      "atariInspiration": "Atari 2600 — Ghostbusters",
+      "atariInspiration": "Atari 2600 \u2014 Ghostbusters",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "ghostbusters-ii",
       "title": "Ghostbusters II",
-      "atariInspiration": "Atari 2600 — Ghostbusters II",
+      "atariInspiration": "Atari 2600 \u2014 Ghostbusters II",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gigolo",
       "title": "Gigolo",
-      "atariInspiration": "Atari 2600 — Gigolo",
+      "atariInspiration": "Atari 2600 \u2014 Gigolo",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "glacier-patrol",
       "title": "Glacier Patrol",
-      "atariInspiration": "Atari 2600 — Glacier Patrol",
+      "atariInspiration": "Atari 2600 \u2014 Glacier Patrol",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "glib",
       "title": "Glib",
-      "atariInspiration": "Atari 2600 — Glib",
+      "atariInspiration": "Atari 2600 \u2014 Glib",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "go-fish",
       "title": "Go Fish!",
-      "atariInspiration": "Atari 2600 — Go Fish!",
+      "atariInspiration": "Atari 2600 \u2014 Go Fish!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "go-go-home",
       "title": "Go Go Home",
-      "atariInspiration": "Atari 2600 — Go Go Home",
+      "atariInspiration": "Atari 2600 \u2014 Go Go Home",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "golf",
       "title": "Golf",
-      "atariInspiration": "Atari 2600 — Golf",
+      "atariInspiration": "Atari 2600 \u2014 Golf",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gopher",
       "title": "Gopher",
-      "atariInspiration": "Atari 2600 — Gopher",
+      "atariInspiration": "Atari 2600 \u2014 Gopher",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gorf",
       "title": "Gorf",
-      "atariInspiration": "Atari 2600 — Gorf",
+      "atariInspiration": "Atari 2600 \u2014 Gorf",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "grand-prix",
       "title": "Grand Prix",
-      "atariInspiration": "Atari 2600 — Grand Prix",
+      "atariInspiration": "Atari 2600 \u2014 Grand Prix",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gravitar",
       "title": "Gravitar",
-      "atariInspiration": "Atari 2600 — Gravitar",
+      "atariInspiration": "Atari 2600 \u2014 Gravitar",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "great-escape",
       "title": "Great Escape",
-      "atariInspiration": "Atari 2600 — Great Escape",
+      "atariInspiration": "Atari 2600 \u2014 Great Escape",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gremlins",
       "title": "Gremlins",
-      "atariInspiration": "Atari 2600 — Gremlins",
+      "atariInspiration": "Atari 2600 \u2014 Gremlins",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "grizzards",
       "title": "Grizzards",
-      "atariInspiration": "Atari 2600 — Grizzards",
+      "atariInspiration": "Atari 2600 \u2014 Grizzards",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "guardian",
       "title": "Guardian",
-      "atariInspiration": "Atari 2600 — Guardian",
+      "atariInspiration": "Atari 2600 \u2014 Guardian",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gunfight",
       "title": "Gunfight",
-      "atariInspiration": "Atari 2600 — Gunfight",
+      "atariInspiration": "Atari 2600 \u2014 Gunfight",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "gyruss",
       "title": "Gyruss",
-      "atariInspiration": "Atari 2600 — Gyruss",
+      "atariInspiration": "Atari 2600 \u2014 Gyruss",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "h-e-r-o",
       "title": "H.E.R.O.",
-      "atariInspiration": "Atari 2600 — H.E.R.O.",
+      "atariInspiration": "Atari 2600 \u2014 H.E.R.O.",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "halloween",
       "title": "Halloween",
-      "atariInspiration": "Atari 2600 — Halloween",
+      "atariInspiration": "Atari 2600 \u2014 Halloween",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "halo-2600",
       "title": "Halo 2600",
-      "atariInspiration": "Atari 2600 — Halo 2600",
+      "atariInspiration": "Atari 2600 \u2014 Halo 2600",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "hangman",
       "title": "Hangman",
-      "atariInspiration": "Atari 2600 — Hangman",
+      "atariInspiration": "Atari 2600 \u2014 Hangman",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "haunted-house",
       "title": "Haunted House",
-      "atariInspiration": "Atari 2600 — Haunted House",
+      "atariInspiration": "Atari 2600 \u2014 Haunted House",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "heist",
       "title": "Heist",
-      "atariInspiration": "Atari 2600 — Heist",
+      "atariInspiration": "Atari 2600 \u2014 Heist",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "high-score-screen-burn-slow-burn",
       "title": "High Score Screen Burn Slow Burn",
-      "atariInspiration": "Atari 2600 — High Score Screen Burn Slow Burn",
+      "atariInspiration": "Atari 2600 \u2014 High Score Screen Burn Slow Burn",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "home-run",
       "title": "Home Run",
-      "atariInspiration": "Atari 2600 — Home Run",
+      "atariInspiration": "Atari 2600 \u2014 Home Run",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "human-cannonball",
       "title": "Human Cannonball",
-      "atariInspiration": "Atari 2600 — Human Cannonball",
+      "atariInspiration": "Atari 2600 \u2014 Human Cannonball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "hunchy-ii",
       "title": "Hunchy II",
-      "atariInspiration": "Atari 2600 — Hunchy II",
+      "atariInspiration": "Atari 2600 \u2014 Hunchy II",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "i-q-memory-teaser",
       "title": "I.Q. Memory Teaser",
-      "atariInspiration": "Atari 2600 — I.Q. Memory Teaser",
+      "atariInspiration": "Atari 2600 \u2014 I.Q. Memory Teaser",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "ice-hockey",
       "title": "Ice Hockey",
-      "atariInspiration": "Atari 2600 — Ice Hockey",
+      "atariInspiration": "Atari 2600 \u2014 Ice Hockey",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "ikari-warriors",
       "title": "Ikari Warriors",
-      "atariInspiration": "Atari 2600 — Ikari Warriors",
+      "atariInspiration": "Atari 2600 \u2014 Ikari Warriors",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "inca-gold",
       "title": "Inca Gold",
-      "atariInspiration": "Atari 2600 — Inca Gold",
+      "atariInspiration": "Atari 2600 \u2014 Inca Gold",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "indy-500",
       "title": "Indy 500",
-      "atariInspiration": "Atari 2600 — Indy 500",
+      "atariInspiration": "Atari 2600 \u2014 Indy 500",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "infiltrate",
       "title": "Infiltrate",
-      "atariInspiration": "Atari 2600 — Infiltrate",
+      "atariInspiration": "Atari 2600 \u2014 Infiltrate",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "international-soccer",
       "title": "International Soccer",
-      "atariInspiration": "Atari 2600 — International Soccer",
+      "atariInspiration": "Atari 2600 \u2014 International Soccer",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "james-bond-007",
       "title": "James Bond 007",
-      "atariInspiration": "Atari 2600 — James Bond 007",
+      "atariInspiration": "Atari 2600 \u2014 James Bond 007",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "jammed",
       "title": "Jammed",
-      "atariInspiration": "Atari 2600 — Jammed",
+      "atariInspiration": "Atari 2600 \u2014 Jammed",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "jatai-the-bee",
       "title": "Jatai the Bee",
-      "atariInspiration": "Atari 2600 — Jatai the Bee",
+      "atariInspiration": "Atari 2600 \u2014 Jatai the Bee",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "jawbreaker",
       "title": "Jawbreaker",
-      "atariInspiration": "Atari 2600 — Jawbreaker",
+      "atariInspiration": "Atari 2600 \u2014 Jawbreaker",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "journey-escape",
       "title": "Journey Escape",
-      "atariInspiration": "Atari 2600 — Journey Escape",
+      "atariInspiration": "Atari 2600 \u2014 Journey Escape",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "joust",
       "title": "Joust",
-      "atariInspiration": "Atari 2600 — Joust",
+      "atariInspiration": "Atari 2600 \u2014 Joust",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "jr-pac-man",
       "title": "Jr. Pac-Man",
-      "atariInspiration": "Atari 2600 — Jr. Pac-Man",
+      "atariInspiration": "Atari 2600 \u2014 Jr. Pac-Man",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "jungle-hunt",
       "title": "Jungle Hunt",
-      "atariInspiration": "Atari 2600 — Jungle Hunt",
+      "atariInspiration": "Atari 2600 \u2014 Jungle Hunt",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "juno-first",
       "title": "Juno First",
-      "atariInspiration": "Atari 2600 — Juno First",
+      "atariInspiration": "Atari 2600 \u2014 Juno First",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "k-o-cruiser",
       "title": "K.O. Cruiser",
-      "atariInspiration": "Atari 2600 — K.O. Cruiser",
+      "atariInspiration": "Atari 2600 \u2014 K.O. Cruiser",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "kaboom",
       "title": "Kaboom!",
-      "atariInspiration": "Atari 2600 — Kaboom!",
+      "atariInspiration": "Atari 2600 \u2014 Kaboom!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "kangaroo",
       "title": "Kangaroo",
-      "atariInspiration": "Atari 2600 — Kangaroo",
+      "atariInspiration": "Atari 2600 \u2014 Kangaroo",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "karate",
       "title": "Karate",
-      "atariInspiration": "Atari 2600 — Karate",
+      "atariInspiration": "Atari 2600 \u2014 Karate",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "keystone-kapers",
       "title": "Keystone Kapers",
-      "atariInspiration": "Atari 2600 — Keystone Kapers",
+      "atariInspiration": "Atari 2600 \u2014 Keystone Kapers",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "killer-satellites-cassette",
       "title": "Killer Satellites (cassette)",
-      "atariInspiration": "Atari 2600 — Killer Satellites (cassette)",
+      "atariInspiration": "Atari 2600 \u2014 Killer Satellites (cassette)",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "king-kong",
       "title": "King Kong",
-      "atariInspiration": "Atari 2600 — King Kong",
+      "atariInspiration": "Atari 2600 \u2014 King Kong",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "klax",
       "title": "Klax",
-      "atariInspiration": "Atari 2600 — Klax",
+      "atariInspiration": "Atari 2600 \u2014 Klax",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "knight-on-the-town",
       "title": "Knight on the Town",
-      "atariInspiration": "Atari 2600 — Knight on the Town",
+      "atariInspiration": "Atari 2600 \u2014 Knight on the Town",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "kool-aid-man",
       "title": "Kool-Aid Man",
-      "atariInspiration": "Atari 2600 — Kool-Aid Man",
+      "atariInspiration": "Atari 2600 \u2014 Kool-Aid Man",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "krull",
       "title": "Krull",
-      "atariInspiration": "Atari 2600 — Krull",
+      "atariInspiration": "Atari 2600 \u2014 Krull",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "kung-fu-master",
       "title": "Kung-Fu Master",
-      "atariInspiration": "Atari 2600 — Kung-Fu Master",
+      "atariInspiration": "Atari 2600 \u2014 Kung-Fu Master",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "l-e-m-lunar-excursion-module",
       "title": "L.E.M. Lunar Excursion Module",
-      "atariInspiration": "Atari 2600 — L.E.M. Lunar Excursion Module",
+      "atariInspiration": "Atari 2600 \u2014 L.E.M. Lunar Excursion Module",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "lady-bug",
       "title": "Lady Bug",
-      "atariInspiration": "Atari 2600 — Lady Bug",
+      "atariInspiration": "Atari 2600 \u2014 Lady Bug",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "laser-blast",
       "title": "Laser Blast",
-      "atariInspiration": "Atari 2600 — Laser Blast",
+      "atariInspiration": "Atari 2600 \u2014 Laser Blast",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "laser-gates",
       "title": "Laser Gates",
-      "atariInspiration": "Atari 2600 — Laser Gates",
+      "atariInspiration": "Atari 2600 \u2014 Laser Gates",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "lilly-adventure-ref-name-lilly",
       "title": "Lilly Adventure<ref name=\"Lilly\" />",
-      "atariInspiration": "Atari 2600 — Lilly Adventure<ref name=\"Lilly\" />",
+      "atariInspiration": "Atari 2600 \u2014 Lilly Adventure<ref name=\"Lilly\" />",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "lochjaw",
       "title": "Lochjaw",
-      "atariInspiration": "Atari 2600 — Lochjaw",
+      "atariInspiration": "Atari 2600 \u2014 Lochjaw",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "lock-n-chase",
       "title": "Lock 'n' Chase",
-      "atariInspiration": "Atari 2600 — Lock 'n' Chase",
+      "atariInspiration": "Atari 2600 \u2014 Lock 'n' Chase",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "london-blitz",
       "title": "London Blitz",
-      "atariInspiration": "Atari 2600 — London Blitz",
+      "atariInspiration": "Atari 2600 \u2014 London Blitz",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "lost-luggage",
       "title": "Lost Luggage",
-      "atariInspiration": "Atari 2600 — Lost Luggage",
+      "atariInspiration": "Atari 2600 \u2014 Lost Luggage",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "m-network-collection",
       "title": "M Network Collection",
-      "atariInspiration": "Atari 2600 — M Network Collection",
+      "atariInspiration": "Atari 2600 \u2014 M Network Collection",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "m-a-d",
       "title": "M.A.D.",
-      "atariInspiration": "Atari 2600 — M.A.D.",
+      "atariInspiration": "Atari 2600 \u2014 M.A.D.",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "m-a-s-h",
       "title": "M*A*S*H",
-      "atariInspiration": "Atari 2600 — M*A*S*H",
+      "atariInspiration": "Atari 2600 \u2014 M*A*S*H",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "magicard",
       "title": "MagiCard",
-      "atariInspiration": "Atari 2600 — MagiCard",
+      "atariInspiration": "Atari 2600 \u2014 MagiCard",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "malagai",
       "title": "Malagai",
-      "atariInspiration": "Atari 2600 — Malagai",
+      "atariInspiration": "Atari 2600 \u2014 Malagai",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mangia",
       "title": "Mangia",
-      "atariInspiration": "Atari 2600 — Mangia",
+      "atariInspiration": "Atari 2600 \u2014 Mangia",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mappy",
       "title": "Mappy",
-      "atariInspiration": "Atari 2600 — Mappy",
+      "atariInspiration": "Atari 2600 \u2014 Mappy",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "marauder",
       "title": "Marauder",
-      "atariInspiration": "Atari 2600 — Marauder",
+      "atariInspiration": "Atari 2600 \u2014 Marauder",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "marble-craze",
       "title": "Marble Craze",
-      "atariInspiration": "Atari 2600 — Marble Craze",
+      "atariInspiration": "Atari 2600 \u2014 Marble Craze",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "marine-wars",
       "title": "Marine Wars",
-      "atariInspiration": "Atari 2600 — Marine Wars",
+      "atariInspiration": "Atari 2600 \u2014 Marine Wars",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mario-bros",
       "title": "Mario Bros.",
-      "atariInspiration": "Atari 2600 — Mario Bros.",
+      "atariInspiration": "Atari 2600 \u2014 Mario Bros.",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "master-builder",
       "title": "Master Builder",
-      "atariInspiration": "Atari 2600 — Master Builder",
+      "atariInspiration": "Atari 2600 \u2014 Master Builder",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "masters-of-the-universe-the-power-of-he-man",
       "title": "Masters of the Universe: The Power of He-Man",
-      "atariInspiration": "Atari 2600 — Masters of the Universe: The Power of He-Man",
+      "atariInspiration": "Atari 2600 \u2014 Masters of the Universe: The Power of He-Man",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "math-gran-prix",
       "title": "Math Gran Prix",
-      "atariInspiration": "Atari 2600 — Math Gran Prix",
+      "atariInspiration": "Atari 2600 \u2014 Math Gran Prix",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "maze-craze-a-game-of-cops-n-robbers",
       "title": "Maze Craze: A Game of Cops 'n Robbers",
-      "atariInspiration": "Atari 2600 — Maze Craze: A Game of Cops 'n Robbers",
+      "atariInspiration": "Atari 2600 \u2014 Maze Craze: A Game of Cops 'n Robbers",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mazy-match",
       "title": "Mazy Match",
-      "atariInspiration": "Atari 2600 — Mazy Match",
+      "atariInspiration": "Atari 2600 \u2014 Mazy Match",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mean-santa",
       "title": "Mean Santa",
-      "atariInspiration": "Atari 2600 — Mean Santa",
+      "atariInspiration": "Atari 2600 \u2014 Mean Santa",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "medieval-mayhem",
       "title": "Medieval Mayhem",
-      "atariInspiration": "Atari 2600 — Medieval Mayhem",
+      "atariInspiration": "Atari 2600 \u2014 Medieval Mayhem",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mega-force",
       "title": "Mega Force",
-      "atariInspiration": "Atari 2600 — Mega Force",
+      "atariInspiration": "Atari 2600 \u2014 Mega Force",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "megaboy",
       "title": "MegaBoy",
-      "atariInspiration": "Atari 2600 — MegaBoy",
+      "atariInspiration": "Atari 2600 \u2014 MegaBoy",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "megamania",
       "title": "Megamania",
-      "atariInspiration": "Atari 2600 — Megamania",
+      "atariInspiration": "Atari 2600 \u2014 Megamania",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "midnight-magic",
       "title": "Midnight Magic",
-      "atariInspiration": "Atari 2600 — Midnight Magic",
+      "atariInspiration": "Atari 2600 \u2014 Midnight Magic",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "millipede",
       "title": "Millipede",
-      "atariInspiration": "Atari 2600 — Millipede",
+      "atariInspiration": "Atari 2600 \u2014 Millipede",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "miner-2049er",
       "title": "Miner 2049er",
-      "atariInspiration": "Atari 2600 — Miner 2049er",
+      "atariInspiration": "Atari 2600 \u2014 Miner 2049er",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "miner-2049er-volume-ii",
       "title": "Miner 2049er Volume II",
-      "atariInspiration": "Atari 2600 — Miner 2049er Volume II",
+      "atariInspiration": "Atari 2600 \u2014 Miner 2049er Volume II",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mines-of-minos",
       "title": "Mines of Minos",
-      "atariInspiration": "Atari 2600 — Mines of Minos",
+      "atariInspiration": "Atari 2600 \u2014 Mines of Minos",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "miniature-golf",
       "title": "Miniature Golf",
-      "atariInspiration": "Atari 2600 — Miniature Golf",
+      "atariInspiration": "Atari 2600 \u2014 Miniature Golf",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "missile-command",
       "title": "Missile Command",
-      "atariInspiration": "Atari 2600 — Missile Command",
+      "atariInspiration": "Atari 2600 \u2014 Missile Command",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "missile-control",
       "title": "Missile Control",
-      "atariInspiration": "Atari 2600 — Missile Control",
+      "atariInspiration": "Atari 2600 \u2014 Missile Control",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mission-3000-a-d",
       "title": "Mission 3000 A.D.",
-      "atariInspiration": "Atari 2600 — Mission 3000 A.D.",
+      "atariInspiration": "Atari 2600 \u2014 Mission 3000 A.D.",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mission-survive",
       "title": "Mission Survive",
-      "atariInspiration": "Atari 2600 — Mission Survive",
+      "atariInspiration": "Atari 2600 \u2014 Mission Survive",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mogul-maniac",
       "title": "Mogul Maniac",
-      "atariInspiration": "Atari 2600 — Mogul Maniac",
+      "atariInspiration": "Atari 2600 \u2014 Mogul Maniac",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "monkey-king",
       "title": "Monkey King",
-      "atariInspiration": "Atari 2600 — Monkey King",
+      "atariInspiration": "Atari 2600 \u2014 Monkey King",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "montezumas-revenge-starring-panama-joe",
       "title": "Montezuma's Revenge: Starring Panama Joe",
-      "atariInspiration": "Atari 2600 — Montezuma's Revenge: Starring Panama Joe",
+      "atariInspiration": "Atari 2600 \u2014 Montezuma's Revenge: Starring Panama Joe",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "moon-patrol",
       "title": "Moon Patrol",
-      "atariInspiration": "Atari 2600 — Moon Patrol",
+      "atariInspiration": "Atari 2600 \u2014 Moon Patrol",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "moonsweeper",
       "title": "Moonsweeper",
-      "atariInspiration": "Atari 2600 — Moonsweeper",
+      "atariInspiration": "Atari 2600 \u2014 Moonsweeper",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "motocross",
       "title": "Motocross",
-      "atariInspiration": "Atari 2600 — Motocross",
+      "atariInspiration": "Atari 2600 \u2014 Motocross",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "motocross-racer",
       "title": "Motocross Racer",
-      "atariInspiration": "Atari 2600 — Motocross Racer",
+      "atariInspiration": "Atari 2600 \u2014 Motocross Racer",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "motorodeo",
       "title": "MotoRodeo",
-      "atariInspiration": "Atari 2600 — MotoRodeo",
+      "atariInspiration": "Atari 2600 \u2014 MotoRodeo",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mountain-king",
       "title": "Mountain King",
-      "atariInspiration": "Atari 2600 — Mountain King",
+      "atariInspiration": "Atari 2600 \u2014 Mountain King",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mouse-trap",
       "title": "Mouse Trap",
-      "atariInspiration": "Atari 2600 — Mouse Trap",
+      "atariInspiration": "Atari 2600 \u2014 Mouse Trap",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mr-do",
       "title": "Mr. Do!",
-      "atariInspiration": "Atari 2600 — Mr. Do!",
+      "atariInspiration": "Atari 2600 \u2014 Mr. Do!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mr-dos-castle",
       "title": "Mr. Do's Castle",
-      "atariInspiration": "Atari 2600 — Mr. Do's Castle",
+      "atariInspiration": "Atari 2600 \u2014 Mr. Do's Castle",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mr-postman",
       "title": "Mr. Postman",
-      "atariInspiration": "Atari 2600 — Mr. Postman",
+      "atariInspiration": "Atari 2600 \u2014 Mr. Postman",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "mr-run-and-jump",
       "title": "Mr. Run and Jump",
-      "atariInspiration": "Atari 2600 — Mr. Run and Jump",
+      "atariInspiration": "Atari 2600 \u2014 Mr. Run and Jump",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "ms-pac-man",
       "title": "Ms. Pac-Man",
-      "atariInspiration": "Atari 2600 — Ms. Pac-Man",
+      "atariInspiration": "Atari 2600 \u2014 Ms. Pac-Man",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "my-golf",
       "title": "My Golf",
-      "atariInspiration": "Atari 2600 — My Golf",
+      "atariInspiration": "Atari 2600 \u2014 My Golf",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "name-this-game",
       "title": "Name This Game",
-      "atariInspiration": "Atari 2600 — Name This Game",
+      "atariInspiration": "Atari 2600 \u2014 Name This Game",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "night-driver",
       "title": "Night Driver",
-      "atariInspiration": "Atari 2600 — Night Driver",
+      "atariInspiration": "Atari 2600 \u2014 Night Driver",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "nightmare",
       "title": "Nightmare",
-      "atariInspiration": "Atari 2600 — Nightmare",
+      "atariInspiration": "Atari 2600 \u2014 Nightmare",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "no-escape",
       "title": "No Escape!",
-      "atariInspiration": "Atari 2600 — No Escape!",
+      "atariInspiration": "Atari 2600 \u2014 No Escape!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "nuts",
       "title": "Nuts",
-      "atariInspiration": "Atari 2600 — Nuts",
+      "atariInspiration": "Atari 2600 \u2014 Nuts",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "obelix",
       "title": "Obelix",
-      "atariInspiration": "Atari 2600 — Obelix",
+      "atariInspiration": "Atari 2600 \u2014 Obelix",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "off-the-wall",
       "title": "Off the Wall",
-      "atariInspiration": "Atari 2600 — Off the Wall",
+      "atariInspiration": "Atari 2600 \u2014 Off the Wall",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "off-your-rocker",
       "title": "Off Your Rocker",
-      "atariInspiration": "Atari 2600 — Off Your Rocker",
+      "atariInspiration": "Atari 2600 \u2014 Off Your Rocker",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "oink",
       "title": "Oink!",
-      "atariInspiration": "Atari 2600 — Oink!",
+      "atariInspiration": "Atari 2600 \u2014 Oink!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "okie-dokie",
       "title": "Okie Dokie",
-      "atariInspiration": "Atari 2600 — Okie Dokie",
+      "atariInspiration": "Atari 2600 \u2014 Okie Dokie",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "omega-race",
       "title": "Omega Race",
-      "atariInspiration": "Atari 2600 — Omega Race",
+      "atariInspiration": "Atari 2600 \u2014 Omega Race",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "open-sesame",
       "title": "Open Sesame",
-      "atariInspiration": "Atari 2600 — Open Sesame",
+      "atariInspiration": "Atari 2600 \u2014 Open Sesame",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "oscars-trash-race",
       "title": "Oscar's Trash Race",
-      "atariInspiration": "Atari 2600 — Oscar's Trash Race",
+      "atariInspiration": "Atari 2600 \u2014 Oscar's Trash Race",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "othello",
       "title": "Othello",
-      "atariInspiration": "Atari 2600 — Othello",
+      "atariInspiration": "Atari 2600 \u2014 Othello",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "out-of-control",
       "title": "Out of Control",
-      "atariInspiration": "Atari 2600 — Out of Control",
+      "atariInspiration": "Atari 2600 \u2014 Out of Control",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "outlaw",
       "title": "Outlaw",
-      "atariInspiration": "Atari 2600 — Outlaw",
+      "atariInspiration": "Atari 2600 \u2014 Outlaw",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "oystron",
       "title": "Oystron",
-      "atariInspiration": "Atari 2600 — Oystron",
+      "atariInspiration": "Atari 2600 \u2014 Oystron",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pac-man",
       "title": "Pac-Man",
-      "atariInspiration": "Atari 2600 — Pac-Man",
+      "atariInspiration": "Atari 2600 \u2014 Pac-Man",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "panda-chase",
       "title": "Panda Chase",
-      "atariInspiration": "Atari 2600 — Panda Chase",
+      "atariInspiration": "Atari 2600 \u2014 Panda Chase",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "parachute",
       "title": "Parachute",
-      "atariInspiration": "Atari 2600 — Parachute",
+      "atariInspiration": "Atari 2600 \u2014 Parachute",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "party-mix",
       "title": "Party Mix",
-      "atariInspiration": "Atari 2600 — Party Mix",
+      "atariInspiration": "Atari 2600 \u2014 Party Mix",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pel-s-soccer",
-      "title": "Pelé's Soccer",
-      "atariInspiration": "Atari 2600 — Pelé's Soccer",
+      "title": "Pel\u00e9's Soccer",
+      "atariInspiration": "Atari 2600 \u2014 Pel\u00e9's Soccer",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pengo",
       "title": "Pengo",
-      "atariInspiration": "Atari 2600 — Pengo",
+      "atariInspiration": "Atari 2600 \u2014 Pengo",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pesco",
       "title": "Pesco",
-      "atariInspiration": "Atari 2600 — Pesco",
+      "atariInspiration": "Atari 2600 \u2014 Pesco",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pete-rose-baseball",
       "title": "Pete Rose Baseball",
-      "atariInspiration": "Atari 2600 — Pete Rose Baseball",
+      "atariInspiration": "Atari 2600 \u2014 Pete Rose Baseball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "phantom-tank",
       "title": "Phantom Tank",
-      "atariInspiration": "Atari 2600 — Phantom Tank",
+      "atariInspiration": "Atari 2600 \u2014 Phantom Tank",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pharaohs-curse",
       "title": "Pharaoh's Curse",
-      "atariInspiration": "Atari 2600 — Pharaoh's Curse",
+      "atariInspiration": "Atari 2600 \u2014 Pharaoh's Curse",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "phaser-patrol",
       "title": "Phaser Patrol",
-      "atariInspiration": "Atari 2600 — Phaser Patrol",
+      "atariInspiration": "Atari 2600 \u2014 Phaser Patrol",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "phoenix",
       "title": "Phoenix",
-      "atariInspiration": "Atari 2600 — Phoenix",
+      "atariInspiration": "Atari 2600 \u2014 Phoenix",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pick-n-pile",
       "title": "Pick 'n Pile",
-      "atariInspiration": "Atari 2600 — Pick 'n Pile",
+      "atariInspiration": "Atari 2600 \u2014 Pick 'n Pile",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pick-up",
       "title": "Pick Up",
-      "atariInspiration": "Atari 2600 — Pick Up",
+      "atariInspiration": "Atari 2600 \u2014 Pick Up",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "picnic",
       "title": "Picnic",
-      "atariInspiration": "Atari 2600 — Picnic",
+      "atariInspiration": "Atari 2600 \u2014 Picnic",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "piece-o-cake",
       "title": "Piece o' Cake",
-      "atariInspiration": "Atari 2600 — Piece o' Cake",
+      "atariInspiration": "Atari 2600 \u2014 Piece o' Cake",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pigs-in-space",
       "title": "Pigs in Space",
-      "atariInspiration": "Atari 2600 — Pigs in Space",
+      "atariInspiration": "Atari 2600 \u2014 Pigs in Space",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pitfall-ii-lost-caverns",
       "title": "Pitfall II: Lost Caverns",
-      "atariInspiration": "Atari 2600 — Pitfall II: Lost Caverns",
+      "atariInspiration": "Atari 2600 \u2014 Pitfall II: Lost Caverns",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pitfall",
       "title": "Pitfall!",
-      "atariInspiration": "Atari 2600 — Pitfall!",
+      "atariInspiration": "Atari 2600 \u2014 Pitfall!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pizza-chef",
       "title": "Pizza Chef",
-      "atariInspiration": "Atari 2600 — Pizza Chef",
+      "atariInspiration": "Atari 2600 \u2014 Pizza Chef",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "planet-patrol",
       "title": "Planet Patrol",
-      "atariInspiration": "Atari 2600 — Planet Patrol",
+      "atariInspiration": "Atari 2600 \u2014 Planet Patrol",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "plaque-attack",
       "title": "Plaque Attack",
-      "atariInspiration": "Atari 2600 — Plaque Attack",
+      "atariInspiration": "Atari 2600 \u2014 Plaque Attack",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "polaris",
       "title": "Polaris",
-      "atariInspiration": "Atari 2600 — Polaris",
+      "atariInspiration": "Atari 2600 \u2014 Polaris",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pole-position",
       "title": "Pole Position",
-      "atariInspiration": "Atari 2600 — Pole Position",
+      "atariInspiration": "Atari 2600 \u2014 Pole Position",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pooyan",
       "title": "Pooyan",
-      "atariInspiration": "Atari 2600 — Pooyan",
+      "atariInspiration": "Atari 2600 \u2014 Pooyan",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "popeye",
       "title": "Popeye",
-      "atariInspiration": "Atari 2600 — Popeye",
+      "atariInspiration": "Atari 2600 \u2014 Popeye",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "porkys",
       "title": "Porky's",
-      "atariInspiration": "Atari 2600 — Porky's",
+      "atariInspiration": "Atari 2600 \u2014 Porky's",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pressure-cooker",
       "title": "Pressure Cooker",
-      "atariInspiration": "Atari 2600 — Pressure Cooker",
+      "atariInspiration": "Atari 2600 \u2014 Pressure Cooker",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "pressure-gauge",
       "title": "Pressure Gauge",
-      "atariInspiration": "Atari 2600 — Pressure Gauge",
+      "atariInspiration": "Atari 2600 \u2014 Pressure Gauge",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "princess-rescue",
       "title": "Princess Rescue",
-      "atariInspiration": "Atari 2600 — Princess Rescue",
+      "atariInspiration": "Atari 2600 \u2014 Princess Rescue",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "private-eye",
       "title": "Private Eye",
-      "atariInspiration": "Atari 2600 — Private Eye",
+      "atariInspiration": "Atari 2600 \u2014 Private Eye",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "q-bert",
       "title": "Q*bert",
-      "atariInspiration": "Atari 2600 — Q*bert",
+      "atariInspiration": "Atari 2600 \u2014 Q*bert",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "q-berts-qubes",
       "title": "Q*bert's Qubes",
-      "atariInspiration": "Atari 2600 — Q*bert's Qubes",
+      "atariInspiration": "Atari 2600 \u2014 Q*bert's Qubes",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "qb",
       "title": "Qb",
-      "atariInspiration": "Atari 2600 — Qb",
+      "atariInspiration": "Atari 2600 \u2014 Qb",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "quadrun",
       "title": "Quadrun",
-      "atariInspiration": "Atari 2600 — Quadrun",
+      "atariInspiration": "Atari 2600 \u2014 Quadrun",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "quest-for-quintana-roo",
       "title": "Quest for Quintana Roo",
-      "atariInspiration": "Atari 2600 — Quest for Quintana Roo",
+      "atariInspiration": "Atari 2600 \u2014 Quest for Quintana Roo",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "quick-step",
       "title": "Quick Step",
-      "atariInspiration": "Atari 2600 — Quick Step",
+      "atariInspiration": "Atari 2600 \u2014 Quick Step",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "rabbit-transit-cassette",
       "title": "Rabbit Transit (cassette)",
-      "atariInspiration": "Atari 2600 — Rabbit Transit (cassette)",
+      "atariInspiration": "Atari 2600 \u2014 Rabbit Transit (cassette)",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "racing-car",
       "title": "Racing Car",
-      "atariInspiration": "Atari 2600 — Racing Car",
+      "atariInspiration": "Atari 2600 \u2014 Racing Car",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "racquetball",
       "title": "Racquetball",
-      "atariInspiration": "Atari 2600 — Racquetball",
+      "atariInspiration": "Atari 2600 \u2014 Racquetball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "radar-lock",
       "title": "Radar Lock",
-      "atariInspiration": "Atari 2600 — Radar Lock",
+      "atariInspiration": "Atari 2600 \u2014 Radar Lock",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "raft-rider",
       "title": "Raft Rider",
-      "atariInspiration": "Atari 2600 — Raft Rider",
+      "atariInspiration": "Atari 2600 \u2014 Raft Rider",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "raiders-of-the-lost-ark",
       "title": "Raiders of the Lost Ark",
-      "atariInspiration": "Atari 2600 — Raiders of the Lost Ark",
+      "atariInspiration": "Atari 2600 \u2014 Raiders of the Lost Ark",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "ram-it",
       "title": "Ram It",
-      "atariInspiration": "Atari 2600 — Ram It",
+      "atariInspiration": "Atari 2600 \u2014 Ram It",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "rampage",
       "title": "Rampage",
-      "atariInspiration": "Atari 2600 — Rampage",
+      "atariInspiration": "Atari 2600 \u2014 Rampage",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "reactor",
       "title": "Reactor",
-      "atariInspiration": "Atari 2600 — Reactor",
+      "atariInspiration": "Atari 2600 \u2014 Reactor",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "realsports-baseball",
       "title": "RealSports Baseball",
-      "atariInspiration": "Atari 2600 — RealSports Baseball",
+      "atariInspiration": "Atari 2600 \u2014 RealSports Baseball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "realsports-boxing",
       "title": "RealSports Boxing",
-      "atariInspiration": "Atari 2600 — RealSports Boxing",
+      "atariInspiration": "Atari 2600 \u2014 RealSports Boxing",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "realsports-collection",
       "title": "RealSports Collection",
-      "atariInspiration": "Atari 2600 — RealSports Collection",
+      "atariInspiration": "Atari 2600 \u2014 RealSports Collection",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "realsports-football",
       "title": "RealSports Football",
-      "atariInspiration": "Atari 2600 — RealSports Football",
+      "atariInspiration": "Atari 2600 \u2014 RealSports Football",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "realsports-soccer",
       "title": "RealSports Soccer",
-      "atariInspiration": "Atari 2600 — RealSports Soccer",
+      "atariInspiration": "Atari 2600 \u2014 RealSports Soccer",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "realsports-tennis",
       "title": "RealSports Tennis",
-      "atariInspiration": "Atari 2600 — RealSports Tennis",
+      "atariInspiration": "Atari 2600 \u2014 RealSports Tennis",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "realsports-volleyball",
       "title": "RealSports Volleyball",
-      "atariInspiration": "Atari 2600 — RealSports Volleyball",
+      "atariInspiration": "Atari 2600 \u2014 RealSports Volleyball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "red-sea-crossing",
       "title": "Red Sea Crossing",
-      "atariInspiration": "Atari 2600 — Red Sea Crossing",
+      "atariInspiration": "Atari 2600 \u2014 Red Sea Crossing",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "rescue-terra-1",
       "title": "Rescue Terra 1",
-      "atariInspiration": "Atari 2600 — Rescue Terra 1",
+      "atariInspiration": "Atari 2600 \u2014 Rescue Terra 1",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "revenge-of-the-beefsteak-tomatoes",
       "title": "Revenge of the Beefsteak Tomatoes",
-      "atariInspiration": "Atari 2600 — Revenge of the Beefsteak Tomatoes",
+      "atariInspiration": "Atari 2600 \u2014 Revenge of the Beefsteak Tomatoes",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "riddle-of-the-sphinx",
       "title": "Riddle of the Sphinx",
-      "atariInspiration": "Atari 2600 — Riddle of the Sphinx",
+      "atariInspiration": "Atari 2600 \u2014 Riddle of the Sphinx",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "river-patrol",
       "title": "River Patrol",
-      "atariInspiration": "Atari 2600 — River Patrol",
+      "atariInspiration": "Atari 2600 \u2014 River Patrol",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "river-raid",
       "title": "River Raid",
-      "atariInspiration": "Atari 2600 — River Raid",
+      "atariInspiration": "Atari 2600 \u2014 River Raid",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "river-raid-ii",
       "title": "River Raid II",
-      "atariInspiration": "Atari 2600 — River Raid II",
+      "atariInspiration": "Atari 2600 \u2014 River Raid II",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "road-runner",
       "title": "Road Runner",
-      "atariInspiration": "Atari 2600 — Road Runner",
+      "atariInspiration": "Atari 2600 \u2014 Road Runner",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "robin-hood",
       "title": "Robin Hood",
-      "atariInspiration": "Atari 2600 — Robin Hood",
+      "atariInspiration": "Atari 2600 \u2014 Robin Hood",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "robin-hood-sir-lancelot-the-joust",
       "title": "Robin Hood/Sir Lancelot - The Joust",
-      "atariInspiration": "Atari 2600 — Robin Hood/Sir Lancelot - The Joust",
+      "atariInspiration": "Atari 2600 \u2014 Robin Hood/Sir Lancelot - The Joust",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "robot-tank",
       "title": "Robot Tank",
-      "atariInspiration": "Atari 2600 — Robot Tank",
+      "atariInspiration": "Atari 2600 \u2014 Robot Tank",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "rocn-rope",
       "title": "Roc'n Rope",
-      "atariInspiration": "Atari 2600 — Roc'n Rope",
+      "atariInspiration": "Atari 2600 \u2014 Roc'n Rope",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "room-of-doom",
       "title": "Room of Doom",
-      "atariInspiration": "Atari 2600 — Room of Doom",
+      "atariInspiration": "Atari 2600 \u2014 Room of Doom",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "save-mary",
       "title": "Save Mary",
-      "atariInspiration": "Atari 2600 — Save Mary",
+      "atariInspiration": "Atari 2600 \u2014 Save Mary",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "save-our-ship",
       "title": "Save Our Ship",
-      "atariInspiration": "Atari 2600 — Save Our Ship",
+      "atariInspiration": "Atari 2600 \u2014 Save Our Ship",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "scramble",
       "title": "Scramble",
-      "atariInspiration": "Atari 2600 — Scramble",
+      "atariInspiration": "Atari 2600 \u2014 Scramble",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sea-monster",
       "title": "Sea Monster",
-      "atariInspiration": "Atari 2600 — Sea Monster",
+      "atariInspiration": "Atari 2600 \u2014 Sea Monster",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "seahawk",
       "title": "Seahawk",
-      "atariInspiration": "Atari 2600 — Seahawk",
+      "atariInspiration": "Atari 2600 \u2014 Seahawk",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "seaquest",
       "title": "Seaquest",
-      "atariInspiration": "Atari 2600 — Seaquest",
+      "atariInspiration": "Atari 2600 \u2014 Seaquest",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "seawolf",
       "title": "Seawolf",
-      "atariInspiration": "Atari 2600 — Seawolf",
+      "atariInspiration": "Atari 2600 \u2014 Seawolf",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "secret-quest",
       "title": "Secret Quest",
-      "atariInspiration": "Atari 2600 — Secret Quest",
+      "atariInspiration": "Atari 2600 \u2014 Secret Quest",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sentinel",
       "title": "Sentinel",
-      "atariInspiration": "Atari 2600 — Sentinel",
+      "atariInspiration": "Atari 2600 \u2014 Sentinel",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "shield-shifter",
       "title": "Shield Shifter",
-      "atariInspiration": "Atari 2600 — Shield Shifter",
+      "atariInspiration": "Atari 2600 \u2014 Shield Shifter",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "shootin-gallery",
       "title": "Shootin' Gallery",
-      "atariInspiration": "Atari 2600 — Shootin' Gallery",
+      "atariInspiration": "Atari 2600 \u2014 Shootin' Gallery",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "shuttle-orbiter",
       "title": "Shuttle Orbiter",
-      "atariInspiration": "Atari 2600 — Shuttle Orbiter",
+      "atariInspiration": "Atari 2600 \u2014 Shuttle Orbiter",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sir-lancelot",
       "title": "Sir Lancelot",
-      "atariInspiration": "Atari 2600 — Sir Lancelot",
+      "atariInspiration": "Atari 2600 \u2014 Sir Lancelot",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "skate-boardin-a-radical-adventure",
       "title": "Skate Boardin': A Radical Adventure",
-      "atariInspiration": "Atari 2600 — Skate Boardin': A Radical Adventure",
+      "atariInspiration": "Atari 2600 \u2014 Skate Boardin': A Radical Adventure",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "skeet-shoot",
       "title": "Skeet Shoot",
-      "atariInspiration": "Atari 2600 — Skeet Shoot",
+      "atariInspiration": "Atari 2600 \u2014 Skeet Shoot",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "skeleton",
       "title": "Skeleton+",
-      "atariInspiration": "Atari 2600 — Skeleton+",
+      "atariInspiration": "Atari 2600 \u2014 Skeleton+",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "ski-hunt",
       "title": "Ski Hunt",
-      "atariInspiration": "Atari 2600 — Ski Hunt",
+      "atariInspiration": "Atari 2600 \u2014 Ski Hunt",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "ski-run",
       "title": "Ski Run",
-      "atariInspiration": "Atari 2600 — Ski Run",
+      "atariInspiration": "Atari 2600 \u2014 Ski Run",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "skiing",
       "title": "Skiing",
-      "atariInspiration": "Atari 2600 — Skiing",
+      "atariInspiration": "Atari 2600 \u2014 Skiing",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "skindiver",
       "title": "Skindiver",
-      "atariInspiration": "Atari 2600 — Skindiver",
+      "atariInspiration": "Atari 2600 \u2014 Skindiver",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sky-diver",
       "title": "Sky Diver",
-      "atariInspiration": "Atari 2600 — Sky Diver",
+      "atariInspiration": "Atari 2600 \u2014 Sky Diver",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sky-jinks",
       "title": "Sky Jinks",
-      "atariInspiration": "Atari 2600 — Sky Jinks",
+      "atariInspiration": "Atari 2600 \u2014 Sky Jinks",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sky-skipper",
       "title": "Sky Skipper",
-      "atariInspiration": "Atari 2600 — Sky Skipper",
+      "atariInspiration": "Atari 2600 \u2014 Sky Skipper",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "slot-machine",
       "title": "Slot Machine",
-      "atariInspiration": "Atari 2600 — Slot Machine",
+      "atariInspiration": "Atari 2600 \u2014 Slot Machine",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "slot-racers",
       "title": "Slot Racers",
-      "atariInspiration": "Atari 2600 — Slot Racers",
+      "atariInspiration": "Atari 2600 \u2014 Slot Racers",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "smurf-rescue-in-gargamels-castle",
       "title": "Smurf: Rescue in Gargamel's Castle",
-      "atariInspiration": "Atari 2600 — Smurf: Rescue in Gargamel's Castle",
+      "atariInspiration": "Atari 2600 \u2014 Smurf: Rescue in Gargamel's Castle",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "snail-against-squirrel",
       "title": "Snail Against Squirrel",
-      "atariInspiration": "Atari 2600 — Snail Against Squirrel",
+      "atariInspiration": "Atari 2600 \u2014 Snail Against Squirrel",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "snappy",
       "title": "Snappy",
-      "atariInspiration": "Atari 2600 — Snappy",
+      "atariInspiration": "Atari 2600 \u2014 Snappy",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sneak-n-peek",
       "title": "Sneak 'N Peek",
-      "atariInspiration": "Atari 2600 — Sneak 'N Peek",
+      "atariInspiration": "Atari 2600 \u2014 Sneak 'N Peek",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "snoopy-and-the-red-baron",
       "title": "Snoopy and the Red Baron",
-      "atariInspiration": "Atari 2600 — Snoopy and the Red Baron",
+      "atariInspiration": "Atari 2600 \u2014 Snoopy and the Red Baron",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "solar-fox",
       "title": "Solar Fox",
-      "atariInspiration": "Atari 2600 — Solar Fox",
+      "atariInspiration": "Atari 2600 \u2014 Solar Fox",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "solar-storm",
       "title": "Solar Storm",
-      "atariInspiration": "Atari 2600 — Solar Storm",
+      "atariInspiration": "Atari 2600 \u2014 Solar Storm",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "solaris",
       "title": "Solaris",
-      "atariInspiration": "Atari 2600 — Solaris",
+      "atariInspiration": "Atari 2600 \u2014 Solaris",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sorcerer",
       "title": "Sorcerer",
-      "atariInspiration": "Atari 2600 — Sorcerer",
+      "atariInspiration": "Atari 2600 \u2014 Sorcerer",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sorcerers-apprentice",
       "title": "Sorcerer's Apprentice",
-      "atariInspiration": "Atari 2600 — Sorcerer's Apprentice",
+      "atariInspiration": "Atari 2600 \u2014 Sorcerer's Apprentice",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sound-x",
       "title": "Sound X",
-      "atariInspiration": "Atari 2600 — Sound X",
+      "atariInspiration": "Atari 2600 \u2014 Sound X",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-attack",
       "title": "Space Attack",
-      "atariInspiration": "Atari 2600 — Space Attack",
+      "atariInspiration": "Atari 2600 \u2014 Space Attack",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-cavern",
       "title": "Space Cavern",
-      "atariInspiration": "Atari 2600 — Space Cavern",
+      "atariInspiration": "Atari 2600 \u2014 Space Cavern",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-game",
       "title": "Space Game",
-      "atariInspiration": "Atari 2600 — Space Game",
+      "atariInspiration": "Atari 2600 \u2014 Space Game",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-instigators",
       "title": "Space Instigators",
-      "atariInspiration": "Atari 2600 — Space Instigators",
+      "atariInspiration": "Atari 2600 \u2014 Space Instigators",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-invaders",
       "title": "Space Invaders",
-      "atariInspiration": "Atari 2600 — Space Invaders",
+      "atariInspiration": "Atari 2600 \u2014 Space Invaders",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-jockey",
       "title": "Space Jockey",
-      "atariInspiration": "Atari 2600 — Space Jockey",
+      "atariInspiration": "Atari 2600 \u2014 Space Jockey",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-rocks",
       "title": "Space Rocks",
-      "atariInspiration": "Atari 2600 — Space Rocks",
+      "atariInspiration": "Atari 2600 \u2014 Space Rocks",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-shuttle-a-journey-into-space",
       "title": "Space Shuttle: A Journey into Space",
-      "atariInspiration": "Atari 2600 — Space Shuttle: A Journey into Space",
+      "atariInspiration": "Atari 2600 \u2014 Space Shuttle: A Journey into Space",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-treat-deluxe",
       "title": "Space Treat Deluxe",
-      "atariInspiration": "Atari 2600 — Space Treat Deluxe",
+      "atariInspiration": "Atari 2600 \u2014 Space Treat Deluxe",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-tunnel",
       "title": "Space Tunnel",
-      "atariInspiration": "Atari 2600 — Space Tunnel",
+      "atariInspiration": "Atari 2600 \u2014 Space Tunnel",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "space-war",
       "title": "Space War",
-      "atariInspiration": "Atari 2600 — Space War",
+      "atariInspiration": "Atari 2600 \u2014 Space War",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "spacechase",
       "title": "Spacechase",
-      "atariInspiration": "Atari 2600 — Spacechase",
+      "atariInspiration": "Atari 2600 \u2014 Spacechase",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "spacemaster-x-7",
       "title": "Spacemaster X-7",
-      "atariInspiration": "Atari 2600 — Spacemaster X-7",
+      "atariInspiration": "Atari 2600 \u2014 Spacemaster X-7",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "spectracube-invasion",
       "title": "Spectracube Invasion",
-      "atariInspiration": "Atari 2600 — Spectracube Invasion",
+      "atariInspiration": "Atari 2600 \u2014 Spectracube Invasion",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "spider-fighter",
       "title": "Spider Fighter",
-      "atariInspiration": "Atari 2600 — Spider Fighter",
+      "atariInspiration": "Atari 2600 \u2014 Spider Fighter",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "spider-man",
       "title": "Spider-Man",
-      "atariInspiration": "Atari 2600 — Spider-Man",
+      "atariInspiration": "Atari 2600 \u2014 Spider-Man",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "spikes-peak",
       "title": "Spike's Peak",
-      "atariInspiration": "Atari 2600 — Spike's Peak",
+      "atariInspiration": "Atari 2600 \u2014 Spike's Peak",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "spitfire-attack",
       "title": "Spitfire Attack",
-      "atariInspiration": "Atari 2600 — Spitfire Attack",
+      "atariInspiration": "Atari 2600 \u2014 Spitfire Attack",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "springer",
       "title": "Springer",
-      "atariInspiration": "Atari 2600 — Springer",
+      "atariInspiration": "Atari 2600 \u2014 Springer",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sprint-master",
       "title": "Sprint Master",
-      "atariInspiration": "Atari 2600 — Sprint Master",
+      "atariInspiration": "Atari 2600 \u2014 Sprint Master",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "spy-hunter",
       "title": "Spy Hunter",
-      "atariInspiration": "Atari 2600 — Spy Hunter",
+      "atariInspiration": "Atari 2600 \u2014 Spy Hunter",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "squeeze-box",
       "title": "Squeeze Box",
-      "atariInspiration": "Atari 2600 — Squeeze Box",
+      "atariInspiration": "Atari 2600 \u2014 Squeeze Box",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "squish-em",
       "title": "Squish 'Em",
-      "atariInspiration": "Atari 2600 — Squish 'Em",
+      "atariInspiration": "Atari 2600 \u2014 Squish 'Em",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sssnake",
       "title": "Sssnake",
-      "atariInspiration": "Atari 2600 — Sssnake",
+      "atariInspiration": "Atari 2600 \u2014 Sssnake",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "stampede",
       "title": "Stampede",
-      "atariInspiration": "Atari 2600 — Stampede",
+      "atariInspiration": "Atari 2600 \u2014 Stampede",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-fire",
       "title": "Star Fire",
-      "atariInspiration": "Atari 2600 — Star Fire",
+      "atariInspiration": "Atari 2600 \u2014 Star Fire",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-fox",
       "title": "Star Fox",
-      "atariInspiration": "Atari 2600 — Star Fox",
+      "atariInspiration": "Atari 2600 \u2014 Star Fox",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-raiders",
       "title": "Star Raiders",
-      "atariInspiration": "Atari 2600 — Star Raiders",
+      "atariInspiration": "Atari 2600 \u2014 Star Raiders",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-ship",
       "title": "Star Ship",
-      "atariInspiration": "Atari 2600 — Star Ship",
+      "atariInspiration": "Atari 2600 \u2014 Star Ship",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-strike",
       "title": "Star Strike",
-      "atariInspiration": "Atari 2600 — Star Strike",
+      "atariInspiration": "Atari 2600 \u2014 Star Strike",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-trek-strategic-operations-simulator",
       "title": "Star Trek: Strategic Operations Simulator",
-      "atariInspiration": "Atari 2600 — Star Trek: Strategic Operations Simulator",
+      "atariInspiration": "Atari 2600 \u2014 Star Trek: Strategic Operations Simulator",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-voyager",
       "title": "Star Voyager",
-      "atariInspiration": "Atari 2600 — Star Voyager",
+      "atariInspiration": "Atari 2600 \u2014 Star Voyager",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-wars-return-of-the-jedi-death-star-battle",
       "title": "Star Wars Return of the Jedi: Death Star Battle",
-      "atariInspiration": "Atari 2600 — Star Wars Return of the Jedi: Death Star Battle",
+      "atariInspiration": "Atari 2600 \u2014 Star Wars Return of the Jedi: Death Star Battle",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-wars-jedi-arena",
       "title": "Star Wars: Jedi Arena",
-      "atariInspiration": "Atari 2600 — Star Wars: Jedi Arena",
+      "atariInspiration": "Atari 2600 \u2014 Star Wars: Jedi Arena",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-wars-the-arcade-game",
       "title": "Star Wars: The Arcade Game",
-      "atariInspiration": "Atari 2600 — Star Wars: The Arcade Game",
+      "atariInspiration": "Atari 2600 \u2014 Star Wars: The Arcade Game",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "star-wars-the-empire-strikes-back",
       "title": "Star Wars: The Empire Strikes Back",
-      "atariInspiration": "Atari 2600 — Star Wars: The Empire Strikes Back",
+      "atariInspiration": "Atari 2600 \u2014 Star Wars: The Empire Strikes Back",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "stargate",
       "title": "Stargate",
-      "atariInspiration": "Atari 2600 — Stargate",
+      "atariInspiration": "Atari 2600 \u2014 Stargate",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "stargunner",
       "title": "Stargunner",
-      "atariInspiration": "Atari 2600 — Stargunner",
+      "atariInspiration": "Atari 2600 \u2014 Stargunner",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "starmaster",
       "title": "Starmaster",
-      "atariInspiration": "Atari 2600 — Starmaster",
+      "atariInspiration": "Atari 2600 \u2014 Starmaster",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "stay-frosty",
       "title": "Stay Frosty",
-      "atariInspiration": "Atari 2600 — Stay Frosty",
+      "atariInspiration": "Atari 2600 \u2014 Stay Frosty",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "stay-frosty-2",
       "title": "Stay Frosty 2",
-      "atariInspiration": "Atari 2600 — Stay Frosty 2",
+      "atariInspiration": "Atari 2600 \u2014 Stay Frosty 2",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "steeplechase",
       "title": "Steeplechase",
-      "atariInspiration": "Atari 2600 — Steeplechase",
+      "atariInspiration": "Atari 2600 \u2014 Steeplechase",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "stell-a-sketch-okie-dokie",
       "title": "Stell-A-Sketch/Okie Dokie",
-      "atariInspiration": "Atari 2600 — Stell-A-Sketch/Okie Dokie",
+      "atariInspiration": "Atari 2600 \u2014 Stell-A-Sketch/Okie Dokie",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "stellar-track",
       "title": "Stellar Track",
-      "atariInspiration": "Atari 2600 — Stellar Track",
+      "atariInspiration": "Atari 2600 \u2014 Stellar Track",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "stone-age",
       "title": "Stone Age",
-      "atariInspiration": "Atari 2600 — Stone Age",
+      "atariInspiration": "Atari 2600 \u2014 Stone Age",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "strat-o-gems-deluxe",
       "title": "Strat-O-Gems Deluxe",
-      "atariInspiration": "Atari 2600 — Strat-O-Gems Deluxe",
+      "atariInspiration": "Atari 2600 \u2014 Strat-O-Gems Deluxe",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "strategy-x",
       "title": "Strategy X",
-      "atariInspiration": "Atari 2600 — Strategy X",
+      "atariInspiration": "Atari 2600 \u2014 Strategy X",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "strawberry-shortcake-musical-match-ups",
       "title": "Strawberry Shortcake: Musical Match-ups",
-      "atariInspiration": "Atari 2600 — Strawberry Shortcake: Musical Match-ups",
+      "atariInspiration": "Atari 2600 \u2014 Strawberry Shortcake: Musical Match-ups",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "street-racer",
       "title": "Street Racer",
-      "atariInspiration": "Atari 2600 — Street Racer",
+      "atariInspiration": "Atari 2600 \u2014 Street Racer",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "stronghold",
       "title": "Stronghold",
-      "atariInspiration": "Atari 2600 — Stronghold",
+      "atariInspiration": "Atari 2600 \u2014 Stronghold",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sub-scan",
       "title": "Sub-Scan",
-      "atariInspiration": "Atari 2600 — Sub-Scan",
+      "atariInspiration": "Atari 2600 \u2014 Sub-Scan",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "submarine-commander",
       "title": "Submarine Commander",
-      "atariInspiration": "Atari 2600 — Submarine Commander",
+      "atariInspiration": "Atari 2600 \u2014 Submarine Commander",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "subterranea",
       "title": "Subterranea",
-      "atariInspiration": "Atari 2600 — Subterranea",
+      "atariInspiration": "Atari 2600 \u2014 Subterranea",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "suicide-mission-cassette",
       "title": "Suicide Mission (cassette)",
-      "atariInspiration": "Atari 2600 — Suicide Mission (cassette)",
+      "atariInspiration": "Atari 2600 \u2014 Suicide Mission (cassette)",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "summer-games",
       "title": "Summer Games",
-      "atariInspiration": "Atari 2600 — Summer Games",
+      "atariInspiration": "Atari 2600 \u2014 Summer Games",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "super-baseball",
       "title": "Super Baseball",
-      "atariInspiration": "Atari 2600 — Super Baseball",
+      "atariInspiration": "Atari 2600 \u2014 Super Baseball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "super-breakout",
       "title": "Super Breakout",
-      "atariInspiration": "Atari 2600 — Super Breakout",
+      "atariInspiration": "Atari 2600 \u2014 Super Breakout",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "super-challenge-baseball",
       "title": "Super Challenge Baseball",
-      "atariInspiration": "Atari 2600 — Super Challenge Baseball",
+      "atariInspiration": "Atari 2600 \u2014 Super Challenge Baseball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "super-challenge-football",
       "title": "Super Challenge Football",
-      "atariInspiration": "Atari 2600 — Super Challenge Football",
+      "atariInspiration": "Atari 2600 \u2014 Super Challenge Football",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "super-cobra",
       "title": "Super Cobra",
-      "atariInspiration": "Atari 2600 — Super Cobra",
+      "atariInspiration": "Atari 2600 \u2014 Super Cobra",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "super-cobra-arcade",
       "title": "Super Cobra Arcade",
-      "atariInspiration": "Atari 2600 — Super Cobra Arcade",
+      "atariInspiration": "Atari 2600 \u2014 Super Cobra Arcade",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "super-football",
       "title": "Super Football",
-      "atariInspiration": "Atari 2600 — Super Football",
+      "atariInspiration": "Atari 2600 \u2014 Super Football",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "superman",
       "title": "Superman",
-      "atariInspiration": "Atari 2600 — Superman",
+      "atariInspiration": "Atari 2600 \u2014 Superman",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "surfers-paradise-but-danger-below",
       "title": "Surfer's Paradise: But Danger Below!",
-      "atariInspiration": "Atari 2600 — Surfer's Paradise: But Danger Below!",
+      "atariInspiration": "Atari 2600 \u2014 Surfer's Paradise: But Danger Below!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "surround",
       "title": "Surround",
-      "atariInspiration": "Atari 2600 — Surround",
+      "atariInspiration": "Atari 2600 \u2014 Surround",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "survival-island-cassette",
       "title": "Survival Island (cassette)",
-      "atariInspiration": "Atari 2600 — Survival Island (cassette)",
+      "atariInspiration": "Atari 2600 \u2014 Survival Island (cassette)",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "survival-run",
       "title": "Survival Run",
-      "atariInspiration": "Atari 2600 — Survival Run",
+      "atariInspiration": "Atari 2600 \u2014 Survival Run",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "swoops",
       "title": "SWOOPS!",
-      "atariInspiration": "Atari 2600 — SWOOPS!",
+      "atariInspiration": "Atari 2600 \u2014 SWOOPS!",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "sword-of-saros-cassette",
       "title": "Sword of Saros (cassette)",
-      "atariInspiration": "Atari 2600 — Sword of Saros (cassette)",
+      "atariInspiration": "Atari 2600 \u2014 Sword of Saros (cassette)",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "swordquest-earthworld",
       "title": "Swordquest: Earthworld",
-      "atariInspiration": "Atari 2600 — Swordquest: Earthworld",
+      "atariInspiration": "Atari 2600 \u2014 Swordquest: Earthworld",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "swordquest-fireworld",
       "title": "Swordquest: Fireworld",
-      "atariInspiration": "Atari 2600 — Swordquest: Fireworld",
+      "atariInspiration": "Atari 2600 \u2014 Swordquest: Fireworld",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "swordquest-waterworld",
       "title": "Swordquest: Waterworld",
-      "atariInspiration": "Atari 2600 — Swordquest: Waterworld",
+      "atariInspiration": "Atari 2600 \u2014 Swordquest: Waterworld",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "synthcart",
       "title": "Synthcart",
-      "atariInspiration": "Atari 2600 — Synthcart",
+      "atariInspiration": "Atari 2600 \u2014 Synthcart",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tac-scan",
       "title": "Tac-Scan",
-      "atariInspiration": "Atari 2600 — Tac-Scan",
+      "atariInspiration": "Atari 2600 \u2014 Tac-Scan",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tapeworm",
       "title": "Tapeworm",
-      "atariInspiration": "Atari 2600 — Tapeworm",
+      "atariInspiration": "Atari 2600 \u2014 Tapeworm",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tapper",
       "title": "Tapper",
-      "atariInspiration": "Atari 2600 — Tapper",
+      "atariInspiration": "Atari 2600 \u2014 Tapper",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tax-avoiders",
       "title": "Tax Avoiders",
-      "atariInspiration": "Atari 2600 — Tax Avoiders",
+      "atariInspiration": "Atari 2600 \u2014 Tax Avoiders",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "taz",
       "title": "Taz",
-      "atariInspiration": "Atari 2600 — Taz",
+      "atariInspiration": "Atari 2600 \u2014 Taz",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tennis",
       "title": "Tennis",
-      "atariInspiration": "Atari 2600 — Tennis",
+      "atariInspiration": "Atari 2600 \u2014 Tennis",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "the-activision-decathlon",
       "title": "The Activision Decathlon",
-      "atariInspiration": "Atari 2600 — The Activision Decathlon",
+      "atariInspiration": "Atari 2600 \u2014 The Activision Decathlon",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "the-earth-dies-screaming",
       "title": "The Earth Dies Screaming",
-      "atariInspiration": "Atari 2600 — The Earth Dies Screaming",
+      "atariInspiration": "Atari 2600 \u2014 The Earth Dies Screaming",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "the-music-machine",
       "title": "The Music Machine",
-      "atariInspiration": "Atari 2600 — The Music Machine",
+      "atariInspiration": "Atari 2600 \u2014 The Music Machine",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "the-official-frogger",
       "title": "The Official Frogger",
-      "atariInspiration": "Atari 2600 — The Official Frogger",
+      "atariInspiration": "Atari 2600 \u2014 The Official Frogger",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "the-smurfs-save-the-day",
       "title": "The Smurfs Save the Day",
-      "atariInspiration": "Atari 2600 — The Smurfs Save the Day",
+      "atariInspiration": "Atari 2600 \u2014 The Smurfs Save the Day",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "the-stacks",
       "title": "The Stacks",
-      "atariInspiration": "Atari 2600 — The Stacks",
+      "atariInspiration": "Atari 2600 \u2014 The Stacks",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "the-texas-chainsaw-massacre",
       "title": "The Texas Chainsaw Massacre",
-      "atariInspiration": "Atari 2600 — The Texas Chainsaw Massacre",
+      "atariInspiration": "Atari 2600 \u2014 The Texas Chainsaw Massacre",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "the-wicked-father",
       "title": "The Wicked Father",
-      "atariInspiration": "Atari 2600 — The Wicked Father",
+      "atariInspiration": "Atari 2600 \u2014 The Wicked Father",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "threshold",
       "title": "Threshold",
-      "atariInspiration": "Atari 2600 — Threshold",
+      "atariInspiration": "Atari 2600 \u2014 Threshold",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "thrust",
       "title": "Thrust",
-      "atariInspiration": "Atari 2600 — Thrust",
+      "atariInspiration": "Atari 2600 \u2014 Thrust",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "thunderground",
       "title": "Thunderground",
-      "atariInspiration": "Atari 2600 — Thunderground",
+      "atariInspiration": "Atari 2600 \u2014 Thunderground",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "time-pilot",
       "title": "Time Pilot",
-      "atariInspiration": "Atari 2600 — Time Pilot",
+      "atariInspiration": "Atari 2600 \u2014 Time Pilot",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "time-warp",
       "title": "Time Warp",
-      "atariInspiration": "Atari 2600 — Time Warp",
+      "atariInspiration": "Atari 2600 \u2014 Time Warp",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "title-match-pro-wrestling",
       "title": "Title Match Pro Wrestling",
-      "atariInspiration": "Atari 2600 — Title Match Pro Wrestling",
+      "atariInspiration": "Atari 2600 \u2014 Title Match Pro Wrestling",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tomarc-the-barbarian",
       "title": "Tomarc the Barbarian",
-      "atariInspiration": "Atari 2600 — Tomarc the Barbarian",
+      "atariInspiration": "Atari 2600 \u2014 Tomarc the Barbarian",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tomcat-the-f-14-fighter-simulator-aka-dan-kitchens-tomcat-the-f-14-fighter-simul",
       "title": "Tomcat: The F-14 Fighter Simulator AKA Dan Kitchen's Tomcat: The F-14 Fighter Simulator",
-      "atariInspiration": "Atari 2600 — Tomcat: The F-14 Fighter Simulator AKA Dan Kitchen's Tomcat: The F-14 Fighter Simulator",
+      "atariInspiration": "Atari 2600 \u2014 Tomcat: The F-14 Fighter Simulator AKA Dan Kitchen's Tomcat: The F-14 Fighter Simulator",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tooth-protectors",
       "title": "Tooth Protectors",
-      "atariInspiration": "Atari 2600 — Tooth Protectors",
+      "atariInspiration": "Atari 2600 \u2014 Tooth Protectors",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "topy",
       "title": "Topy",
-      "atariInspiration": "Atari 2600 — Topy",
+      "atariInspiration": "Atari 2600 \u2014 Topy",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "towering-inferno",
       "title": "Towering Inferno",
-      "atariInspiration": "Atari 2600 — Towering Inferno",
+      "atariInspiration": "Atari 2600 \u2014 Towering Inferno",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "toyshop-trouble",
       "title": "Toyshop Trouble",
-      "atariInspiration": "Atari 2600 — Toyshop Trouble",
+      "atariInspiration": "Atari 2600 \u2014 Toyshop Trouble",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "track-and-field",
       "title": "Track & Field",
-      "atariInspiration": "Atari 2600 — Track & Field",
+      "atariInspiration": "Atari 2600 \u2014 Track & Field",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "treasure-below",
       "title": "Treasure Below",
-      "atariInspiration": "Atari 2600 — Treasure Below",
+      "atariInspiration": "Atari 2600 \u2014 Treasure Below",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "treasure-discovery",
       "title": "Treasure Discovery",
-      "atariInspiration": "Atari 2600 — Treasure Discovery",
+      "atariInspiration": "Atari 2600 \u2014 Treasure Discovery",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "trick-shot",
       "title": "Trick Shot",
-      "atariInspiration": "Atari 2600 — Trick Shot",
+      "atariInspiration": "Atari 2600 \u2014 Trick Shot",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tron-deadly-discs",
       "title": "Tron: Deadly Discs",
-      "atariInspiration": "Atari 2600 — Tron: Deadly Discs",
+      "atariInspiration": "Atari 2600 \u2014 Tron: Deadly Discs",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tunnel-runner",
       "title": "Tunnel Runner",
-      "atariInspiration": "Atari 2600 — Tunnel Runner",
+      "atariInspiration": "Atari 2600 \u2014 Tunnel Runner",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "turbo",
       "title": "Turbo",
-      "atariInspiration": "Atari 2600 — Turbo",
+      "atariInspiration": "Atari 2600 \u2014 Turbo",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "turmoil",
       "title": "Turmoil",
-      "atariInspiration": "Atari 2600 — Turmoil",
+      "atariInspiration": "Atari 2600 \u2014 Turmoil",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "tutankham",
       "title": "Tutankham",
-      "atariInspiration": "Atari 2600 — Tutankham",
+      "atariInspiration": "Atari 2600 \u2014 Tutankham",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "universal-chaos",
       "title": "Universal Chaos",
-      "atariInspiration": "Atari 2600 — Universal Chaos",
+      "atariInspiration": "Atari 2600 \u2014 Universal Chaos",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "upn-down",
       "title": "Up'n Down",
-      "atariInspiration": "Atari 2600 — Up'n Down",
+      "atariInspiration": "Atari 2600 \u2014 Up'n Down",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "vanguard",
       "title": "Vanguard",
-      "atariInspiration": "Atari 2600 — Vanguard",
+      "atariInspiration": "Atari 2600 \u2014 Vanguard",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "vault-assault",
       "title": "Vault Assault",
-      "atariInspiration": "Atari 2600 — Vault Assault",
+      "atariInspiration": "Atari 2600 \u2014 Vault Assault",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "venetian-blinds",
       "title": "Venetian Blinds",
-      "atariInspiration": "Atari 2600 — Venetian Blinds",
+      "atariInspiration": "Atari 2600 \u2014 Venetian Blinds",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "venture",
       "title": "Venture",
-      "atariInspiration": "Atari 2600 — Venture",
+      "atariInspiration": "Atari 2600 \u2014 Venture",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "video-checkers",
       "title": "Video Checkers",
-      "atariInspiration": "Atari 2600 — Video Checkers",
+      "atariInspiration": "Atari 2600 \u2014 Video Checkers",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "video-chess",
       "title": "Video Chess",
-      "atariInspiration": "Atari 2600 — Video Chess",
+      "atariInspiration": "Atari 2600 \u2014 Video Chess",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "video-jogger",
       "title": "Video Jogger",
-      "atariInspiration": "Atari 2600 — Video Jogger",
+      "atariInspiration": "Atari 2600 \u2014 Video Jogger",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "video-life",
       "title": "Video Life",
-      "atariInspiration": "Atari 2600 — Video Life",
+      "atariInspiration": "Atari 2600 \u2014 Video Life",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "video-olympics",
       "title": "Video Olympics",
-      "atariInspiration": "Atari 2600 — Video Olympics",
+      "atariInspiration": "Atari 2600 \u2014 Video Olympics",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "video-pinball",
       "title": "Video Pinball",
-      "atariInspiration": "Atari 2600 — Video Pinball",
+      "atariInspiration": "Atari 2600 \u2014 Video Pinball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "video-reflex",
       "title": "Video Reflex",
-      "atariInspiration": "Atari 2600 — Video Reflex",
+      "atariInspiration": "Atari 2600 \u2014 Video Reflex",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "vong",
       "title": "Vong",
-      "atariInspiration": "Atari 2600 — Vong",
+      "atariInspiration": "Atari 2600 \u2014 Vong",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "wabbit",
       "title": "Wabbit",
-      "atariInspiration": "Atari 2600 — Wabbit",
+      "atariInspiration": "Atari 2600 \u2014 Wabbit",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "walker",
       "title": "Walker",
-      "atariInspiration": "Atari 2600 — Walker",
+      "atariInspiration": "Atari 2600 \u2014 Walker",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "wall-ball",
       "title": "Wall Ball",
-      "atariInspiration": "Atari 2600 — Wall Ball",
+      "atariInspiration": "Atari 2600 \u2014 Wall Ball",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "wall-jump-ninja",
       "title": "Wall Jump Ninja",
-      "atariInspiration": "Atari 2600 — Wall Jump Ninja",
+      "atariInspiration": "Atari 2600 \u2014 Wall Jump Ninja",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "wall-defender",
       "title": "Wall-Defender",
-      "atariInspiration": "Atari 2600 — Wall-Defender",
+      "atariInspiration": "Atari 2600 \u2014 Wall-Defender",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "warlords",
       "title": "Warlords",
-      "atariInspiration": "Atari 2600 — Warlords",
+      "atariInspiration": "Atari 2600 \u2014 Warlords",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "warplock",
       "title": "Warplock",
-      "atariInspiration": "Atari 2600 — Warplock",
+      "atariInspiration": "Atari 2600 \u2014 Warplock",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "warring-worms",
       "title": "Warring Worms",
-      "atariInspiration": "Atari 2600 — Warring Worms",
+      "atariInspiration": "Atari 2600 \u2014 Warring Worms",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "wing-war",
       "title": "Wing War",
-      "atariInspiration": "Atari 2600 — Wing War",
+      "atariInspiration": "Atari 2600 \u2014 Wing War",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "winter-games",
       "title": "Winter Games",
-      "atariInspiration": "Atari 2600 — Winter Games",
+      "atariInspiration": "Atari 2600 \u2014 Winter Games",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "wizard-of-wor",
       "title": "Wizard of Wor",
-      "atariInspiration": "Atari 2600 — Wizard of Wor",
+      "atariInspiration": "Atari 2600 \u2014 Wizard of Wor",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "word-zapper",
       "title": "Word Zapper",
-      "atariInspiration": "Atari 2600 — Word Zapper",
+      "atariInspiration": "Atari 2600 \u2014 Word Zapper",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "words-attack",
       "title": "Words-Attack",
-      "atariInspiration": "Atari 2600 — Words-Attack",
+      "atariInspiration": "Atari 2600 \u2014 Words-Attack",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "world-end",
       "title": "World End",
-      "atariInspiration": "Atari 2600 — World End",
+      "atariInspiration": "Atari 2600 \u2014 World End",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "worm-war-i",
       "title": "Worm War I",
-      "atariInspiration": "Atari 2600 — Worm War I",
+      "atariInspiration": "Atari 2600 \u2014 Worm War I",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "x-mission",
       "title": "X Mission",
-      "atariInspiration": "Atari 2600 — X Mission",
+      "atariInspiration": "Atari 2600 \u2014 X Mission",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "x-man",
       "title": "X-Man",
-      "atariInspiration": "Atari 2600 — X-Man",
+      "atariInspiration": "Atari 2600 \u2014 X-Man",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "xenophobe",
       "title": "Xenophobe",
-      "atariInspiration": "Atari 2600 — Xenophobe",
+      "atariInspiration": "Atari 2600 \u2014 Xenophobe",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "yars-revenge",
       "title": "Yars' Revenge",
-      "atariInspiration": "Atari 2600 — Yars' Revenge",
+      "atariInspiration": "Atari 2600 \u2014 Yars' Revenge",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "zaxxon",
       "title": "Zaxxon",
-      "atariInspiration": "Atari 2600 — Zaxxon",
+      "atariInspiration": "Atari 2600 \u2014 Zaxxon",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "zippy-the-porcupine",
       "title": "Zippy the Porcupine",
-      "atariInspiration": "Atari 2600 — Zippy the Porcupine",
+      "atariInspiration": "Atari 2600 \u2014 Zippy the Porcupine",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "zoo-fun",
       "title": "Zoo Fun",
-      "atariInspiration": "Atari 2600 — Zoo Fun",
+      "atariInspiration": "Atari 2600 \u2014 Zoo Fun",
       "status": "planned",
       "plannedDate": null
     },
     {
       "slug": "zoo-keeper",
       "title": "Zoo Keeper",
-      "atariInspiration": "Atari 2600 — Zoo Keeper",
+      "atariInspiration": "Atari 2600 \u2014 Zoo Keeper",
       "status": "planned",
       "plannedDate": null
     }
