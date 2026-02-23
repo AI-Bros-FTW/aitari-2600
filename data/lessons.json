@@ -159,5 +159,19 @@
     "slug": "adventure",
     "category": "architecture",
     "lesson": "Room-based game worlds are elegant: each room is self-contained state, transitions happen at boundaries, and the system scales by adding rooms."
+  },
+  {
+    "date": "2026-02-23",
+    "game": "Adventures of Tron",
+    "slug": "adventures-of-tron",
+    "category": "mechanics",
+    "lesson": "Elevator mechanics need careful physics separation — disable gravity while on an elevator and use velocity damping for smooth transitions on/off."
+  },
+  {
+    "date": "2026-02-23",
+    "game": "Adventures of Tron",
+    "slug": "adventures-of-tron",
+    "category": "design",
+    "lesson": "Multi-enemy-type games benefit from distinct visual silhouettes — even at low resolution, unique shapes (T, X, box+turret) make enemies instantly recognizable."
   }
 ]

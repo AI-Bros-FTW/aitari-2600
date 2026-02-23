@@ -1,5 +1,14 @@
 [
   {
+    "slug": "adventures-of-tron",
+    "title": "Adventures of Tron",
+    "date": "2026-02-23",
+    "version": "0.1.0",
+    "thumbnail": "/play/adventures-of-tron/thumbnail.png",
+    "playUrl": "/play/adventures-of-tron/index.html",
+    "atariInspiration": "Atari 2600 — Adventures of Tron"
+  },
+  {
     "slug": "adventure",
     "title": "Adventure",
     "date": "2026-02-21",

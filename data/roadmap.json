@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21",
+  "updatedAt": "2026-02-23",
   "games": [
     {
       "slug": "pongish",
@@ -81,8 +81,9 @@
       "slug": "adventures-of-tron",
       "title": "Adventures of Tron",
       "atariInspiration": "Atari 2600 \u2014 Adventures of Tron",
-      "status": "planned",
-      "plannedDate": null
+      "status": "published",
+      "plannedDate": "2026-02-23",
+      "updatedAt": "2026-02-23"
     },
     {
       "slug": "air-raid",
