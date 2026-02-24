@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23",
+  "updatedAt": "2026-02-24",
   "games": [
     {
       "slug": "pongish",
@@ -89,8 +89,9 @@
       "slug": "air-raid",
       "title": "Air Raid",
       "atariInspiration": "Atari 2600 \u2014 Air Raid",
-      "status": "planned",
-      "plannedDate": null
+      "status": "published",
+      "plannedDate": "2026-02-24",
+      "updatedAt": "2026-02-24"
     },
     {
       "slug": "air-raiders",

@@ -1,5 +1,14 @@
 [
   {
+    "slug": "air-raid",
+    "title": "Air Raid",
+    "date": "2026-02-24",
+    "version": "0.1.0",
+    "thumbnail": "/play/air-raid/thumbnail.png",
+    "playUrl": "/play/air-raid/index.html",
+    "atariInspiration": "Atari 2600 — Air Raid"
+  },
+  {
     "slug": "adventures-of-tron",
     "title": "Adventures of Tron",
     "date": "2026-02-23",

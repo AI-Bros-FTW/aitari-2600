@@ -173,5 +173,19 @@
     "slug": "adventures-of-tron",
     "category": "design",
     "lesson": "Multi-enemy-type games benefit from distinct visual silhouettes — even at low resolution, unique shapes (T, X, box+turret) make enemies instantly recognizable."
+  },
+  {
+    "date": "2026-02-24",
+    "game": "Air Raid",
+    "slug": "air-raid",
+    "category": "mechanics",
+    "lesson": "Defender-style games need careful projectile speed tuning across difficulty waves — start bombs slow and ramp per wave to maintain the tension curve without feeling unfair."
+  },
+  {
+    "date": "2026-02-24",
+    "game": "Air Raid",
+    "slug": "air-raid",
+    "category": "design",
+    "lesson": "Destructible buildings with visible HP degradation (shrinking height + color shift) create stronger emotional stakes than abstract life counters — players fight harder to protect something they can see crumbling."
   }
 ]
